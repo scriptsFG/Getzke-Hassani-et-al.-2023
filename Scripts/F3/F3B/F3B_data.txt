@@ -1,0 +1,199 @@
+Isolate	Isolate_old	Fraction	Phylum	Class	Order	Family	Genus	nBGCs	mean_ant	n_ant	mean_sus	n_sus	R401
+Soil522	522	abundant soil	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	9	0	0	0.046848485	14	0
+Soil531	531	abundant soil	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	7	0.033323232	30	0	0	0
+Soil535	535	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Agromyces	4	0	0	0	0	2.214
+Soil538	538	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Mycobacteriaceae	Mycobacterium	14	0.004868687	4	0.031464646	11	0
+Soil728	728	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	Janibacter	4	0.007156566	4	0.000686869	1	0.406
+Soil729	729	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	ND	1	0.00010101	1	0.003075758	2	1.216
+Soil736	736	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Arthrobacter	6	0.000378788	1	0.012121212	6	0.48
+Soil745	745	abundant soil	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	8	0.013146465	10	0.000353535	1	0
+Soil748	748	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	Janibacter	4	0.001762626	2	0.001868687	4	0
+Soil750	750	abundant soil	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	11	0.001459596	1	0.00310101	2	0
+Soil756	756	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	Janibacter	2	0	0	0.01120202	7	1.707
+Soil761	761	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Arthrobacter	2	0	0	0.006580808	6	0
+Soil762	762	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Arthrobacter	4	0.003166667	2	0.050909091	31	0
+Soil763	763	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Arthrobacter	2	0	0	0.001505051	5	0
+Soil764	764	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Arthrobacter	2	0	0	0.039611111	20	0
+Soil766	766	abundant soil	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	10	0	0	0.001808081	1	0
+Soil772	772	abundant soil	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Rhodanobacter	1	0	0	0.045666667	20	0
+Soil773	773	abundant soil	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Rhodanobacter	11	0.007434343	3	0	0	0
+Soil774	774	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides	3	0	0	0.013747475	9	1.935
+Soil777	777	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides	5	0	0	0.001823232	2	1.301
+Soil782	782	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Arthrobacter	3	0	0	0.055893939	12	1.166
+Soil787	787	abundant soil	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	5	0	0	0	0	0
+Soil796	796	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides	2	0	0	0.055510101	20	0
+Soil797	797	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides	1	0.014080808	7	0.007111111	6	0
+Soil803	803	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	Janibacter	1	0	0	0.003060606	6	1.153
+Soil805	805	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides	3	0	0	0.050727273	11	1.1
+Soil809	809	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	ND	2	0	0	0.008863636	7	0
+Soil810	810	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	ND	3	0.006444444	4	0.000939394	2	0.464
+Soil811	811	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	ND	3	0.013737374	7	0.003176768	1	0
+Soil724D2	724D2	abundant soil	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	5	0.005717172	3	0.017631313	5	0
+Soil768D1	768D1	abundant soil	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	7	0	0	0.000535354	1	0
+Root4	4	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Agromyces	3	0.002540404	4	0.017646465	13	0.793
+Root9	9	root-derived	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	11	0.005939394	7	0	0	0
+Root11	11	root-derived	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	17	0.01370202	15	0	0	0
+Root22	22	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Promicromonosporaceae	ND	3	0	0	0.107242424	38	0.629
+Root29	29	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	ND	8	0.035035354	19	0.003272727	2	0.442
+Root31	31	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	10	0	0	0	0	0
+Root50	50	root-derived	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	9	0.028489899	14	0.001520202	2	0.203
+Root53	53	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Microbacterium	0	0.001934343	2	0.019888889	18	0.229
+Root60	60	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	ND	3	0	0	0.038429293	17	1.283
+Root61	61	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Microbacterium	3	0.005631313	3	0.016792929	14	0
+Root63	63	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Streptomycetaceae	Streptomyces	40	0.092277778	46	0.030520202	11	0
+Root65	65	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudoxanthomonas	4	0.023641414	16	0	0	0
+Root68	68	root-derived	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	7	0.064616162	22	0	0	0
+Root70	70	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	2	0	0	0	0	0
+Root71	71	root-derived	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	7	0.031186869	20	0.003282828	6	0
+Root73	73	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	4	0.000626263	2	0.002984848	1	0.591
+Root74	74	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	6	0.019075758	8	0	0	0
+Root76	76	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	ND	8	0	0	0	0	0
+Root77	77	root-derived	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	ND	7	0.008106061	7	0	0	0
+Root79	79	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides	4	0.000353535	1	0.031636364	8	0
+Root81	81	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Agromyces	3	0.027272727	11	0.036333333	27	0
+Root83	83	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Achromobacter	14	0.006227273	4	0	0	0
+Root85	85	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	ND	3	0	0	0.036075758	10	0.768
+Root96	96	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	ND	8	0.000888889	1	0.006343434	8	0
+Root100	100	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	ND	5	0.003131313	2	0	0	0
+Root101	101	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	Janibacter	1	0	0	0.079207071	28	0.152
+Root102	102	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium	7	0.001808081	1	0.003015152	1	0
+Root105	105	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	ND	2	0.018525253	11	0.011939394	6	0.567
+Root107	107	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Streptomycetaceae	ND	36	0.000767677	1	0.042924242	19	0
+Root122	122	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides	4	0.015348485	10	0.101207071	34	0
+Root127	127	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	8	0.035030303	14	0.002489899	6	0
+Root131	131	root-derived	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	16	0	0	0	0	0
+Root133	133	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	6	0.005035354	3	0.018121212	9	0
+Root135	135	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Mycobacteriaceae	Mycobacterium	16	0.00189899	1	0.057787879	18	0
+Root136	136	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Nocardiaceae	Nocardia	30	0.005888889	2	0.007727273	7	0.61
+Root137	137	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Cellulomonadaceae	Cellulomonas	4	0.010489899	7	0.014222222	8	0
+Root140	140	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides	2	0.000267677	1	0.00590404	3	0.418
+Root142	142	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	9	0	0	0	0	0
+Root147	147	root-derived	Firmicutes	Bacilli	Bacillales	Bacillaceae	ND	9	0.004611111	7	0	0	0
+Root149	149	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	8	0	0	0	0	0
+Root151	151	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides	2	0.001414141	2	0.018570707	18	0.068
+Root154	154	root-derived	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	ND	2	0.073085859	36	0	0	0
+Root157	157	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium	1	0.019919192	13	0	0	0
+Root166	166	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Microbacterium	4	0	0	0.020530303	16	0
+Root170	170	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Achromobacter	4	0.016212121	17	0	0	0
+Root172	172	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium	5	0.003131313	2	0.001757576	1	0.348
+Root179	179	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Rhodanobacter	3	0.012454545	8	0.012191919	9	0.339
+Root180	180	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	ND	3	0	0	0.003484848	12	0
+Root181	181	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	ND	3	0.041792929	17	0.000434343	1	0.59
+Root186	186	root-derived	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	9	0.004015152	4	0.000641414	1	0
+Root187	187	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Streptomycetaceae	ND	30	0.006242424	3	0.00740404	16	0
+Root189	189	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Herbaspirillum	19	0.004429293	7	0.032671717	16	0
+Root190	190	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides	4	0.00280303	2	0.000181818	1	0.353
+Root214	214	root-derived	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingopyxis	2	0	0	0.000454545	1	0
+Root217	217	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	4	0.004434343	2	0	0	0
+Root219	219	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	4	0	0	0	0	0
+Root224	224	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides	2	0	0	0.003262626	8	0
+Root227	227	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	ND	3	0.005484848	3	0.002611111	2	0.136
+Root231	231	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	8	0	0	0.001707071	1	0
+Root236	236	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Aeromicrobium	1	0	0	0.030813131	25	0
+Root239	239	root-derived	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	7	0.005141414	6	0	0	0
+Root240	240	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides	4	0.006010101	3	0.042090909	16	0.05
+Root241	241	root-derived	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	1	0.005060606	3	0	0	0
+Root258	258	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	8	0.018469697	10	0	0	0
+Root264	264	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Streptomycetaceae	Streptomyces	39	0	0	0.009368687	10	0
+Root265	265	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Mycobacteriaceae	Mycobacterium	19	0	0	0.020222222	20	0.689
+Root267	267	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	4	0.005651515	2	0	0	0
+Root268	268	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	7	0	0	0.002388889	1	0
+Root274	274	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	ND	6	0	0	0	0	0
+Root275	275	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	4	0.003464646	3	0	0	0
+Root278	278	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	7	0.002060606	1	0	0	0
+Root322	322	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Microbacterium	2	0.003974747	8	0.026611111	41	0.446
+Root329	329	root-derived	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	6	0.033454545	14	0	0	0
+Root332	332	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	ND	2	0.013030303	2	0.001282828	2	0
+Root335	335	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	10	0.011242424	8	0	0	0
+Root342	342	root-derived	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	5	0	0	0.015348485	10	0.342
+Root343	343	root-derived	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	5	0.001459596	2	0.015944444	6	0
+Root344	344	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Aeromicrobium	2	0.007919192	3	0.010813131	15	0
+Root369	369	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Streptomycetaceae	Streptomyces	26	0.013585859	12	0.012373737	11	0
+Root381	381	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	ND	4	0.001247475	2	0.001545455	1	0
+Root401	401	root-derived	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	17	0.155565657	50	0	0	0
+Root402	402	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	3	0.002686869	2	0.000560606	2	0.041
+Root404	404	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	ND	9	0.001540404	1	0	0	0
+Root411	411	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	12	0.002964646	2	0	0	0
+Root418	418	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Janthinobacterium	8	0	0	0	0	0
+Root420	420	root-derived	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	5	0.006222222	5	0.000252525	1	0
+Root423	423	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	7	0.005989899	4	0	0	0
+Root431	431	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Streptomycetaceae	Streptomyces	18	0	0	0.003484848	7	0
+Root434	434	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	9	0.003843434	2	0.000510101	1	0
+Root436	436	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	ND	3	0.003641414	4	0	0	0
+Root456	456	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	ND	4	0	0	0.008414141	6	0
+Root473	473	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	5	0.004358586	3	0.000570707	1	0
+Root480	480	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	ND	4	0.00089899	2	0.012287879	18	0.129
+Root482	482	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	2	0	0	0	0	0
+Root485	485	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Cellulomonadaceae	Cellulomonas	3	0.005459596	2	0.003914141	10	0
+Root491	491	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	2	0.001434343	3	0	0	0
+Root552	552	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium	1	0	0	0	0	0
+Root553	553	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	ND	3	0.006146465	10	0	0	1.29
+Root554	554	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium	4	0	0	0.001176768	1	0
+Root558	558	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	8	0	0	0	0	0
+Root559	559	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	ND	8	0.007727273	4	0.001393939	4	0
+Root561	561	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Rhodanobacter	4	0	0	0.06030303	28	0.389
+Root562	562	root-derived	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	7	0.045681818	18	0	0	0
+Root563	563	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	Janibacter	1	0	0	0.006909091	4	0.395
+Root564	564	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	5	0.012540404	6	0	0	0
+Root565	565	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Achromobacter	4	0.050030303	19	0	0	0
+Root568	568	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	ND	2	0	0	0	0	0
+Root569	569	root-derived	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	11	0.046176768	26	0	0	0
+Root604	604	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	ND	15	0.004752525	5	0.000434343	1	0
+Root614	614	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	ND	3	0.000353535	1	0.009176768	5	0.592
+Root627	627	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Rhodanobacter	3	0.009383838	5	0.028040404	13	0
+Root630	630	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudoxanthomonas	2	0	0	0	0	0
+Root635	635	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	ND	4	0.017883838	11	0	0	0
+Root651	651	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	6	0.001585859	4	0	0	0
+Root656	656	root-derived	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	5	0	0	0	0	0
+Root667	667	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	ND	8	0.000661616	1	0.00080303	1	0.159
+Root670	670	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	ND	2	0.00189899	2	0.012328283	8	0.348
+Root682	682	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	ND	3	0.09370202	34	0.003080808	1	0
+Root685	685	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	ND	3	0.005893939	5	0	0	0
+Root690	690	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	ND	11	0.022722222	34	0	0	0
+Root695	695	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium	7	0	0	0.002131313	1	0
+Root700	700	root-derived	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	ND	3	0.001954545	1	0.002161616	1	0
+Root708	708	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	5	0	0	0.001141414	1	0
+Root710	710	root-derived	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	5	0.000994949	2	0	0	0
+Root720	720	root-derived	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	9	0	0	0	0	0
+Root901	901	root-derived	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	5	0.012818182	8	0	0	0
+Root916	916	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	ND	13	0.004661616	5	0.000813131	2	0
+Root918	918	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Promicromonosporaceae	ND	3	0.001580808	4	0	0	0
+Root920	920	root-derived	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	9	0.026742424	16	0	0	0
+Root930	930	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Cellulomonadaceae	ND	4	0.033838384	17	0.00209596	1	1.215
+Root935	935	root-derived	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	5	0.00130303	3	0	0	0
+Root954	954	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	6	0	0	0	0	0
+Root983	983	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	ND	13	0.00040404	1	0.002	4	0.129
+Root1203	1203	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	5	0	0	0	0	0
+Root1212	1212	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	7	0	0	0.00040404	1	0
+Root1217	1217	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	ND	5	0	0	0	0	0
+Root1220	1220	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	3	0	0	0.00439899	1	0
+Root1221	1221	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	ND	19	0	0	0.002368687	2	0
+Root1238	1238	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	ND	8	0.006338384	4	0	0	0
+Root1240	1240	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	6	0.010363636	5	0.006454545	5	0
+Root1252	1252	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	8	0	0	0	0	0
+Root1257	1257	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Nocardioides	2	0	0	0	0	0
+Root1277	1277	root-derived	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	ND	7	0	0	0	0	0
+Root1280	1280	root-derived	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	4	0.00480303	3	0.001065657	2	0
+Root1293	1293	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	ND	3	0	0	0.00039899	1	0
+Root1294	1294	root-derived	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	9	0.03039899	13	0	0	0
+Root1295	1295	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Streptomycetaceae	Streptomyces	40	0.005722222	5	0.006343434	2	0
+Root1298	1298	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	6	0.001055556	1	0.000191919	1	0
+Root1304	1304	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Streptomycetaceae	Streptomyces	25	0.004308081	3	0	0	0
+Root1310	1310	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Streptomycetaceae	Streptomyces	39	0.003570707	4	0	0	0
+Root1312	1312	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium	6	0.001606061	2	0.000540404	1	0
+Root1319	1319	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Streptomycetaceae	Streptomyces	22	0.024358586	14	0.004974747	6	0.16
+Root1334	1334	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	4	0.013535354	10	0.032237374	20	0.482
+Root1455	1455	root-derived	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	7	0.00069697	2	0.026742424	19	0.409
+Root112D2	112D2	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	ND	3	0.020757576	11	0	0	0
+Root123D2	123D2	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Afipia	3	0.0165	10	0	0	0
+Root16D2	16D2	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	ND	8	0.000777778	1	0	0	0
+Root198D2	198D2	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	ND	7	0.001828283	1	0.000550505	2	0
+Root280D1	280D1	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Microbacterium	3	0	0	0	0	1.172
+Root318D1	318D1	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	8	0	0	0.02330303	25	0
+Root336D2	336D2	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	ND	7	0.014328283	6	0	0	0
+Root413D1	413D1	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	ND	2	0.035373737	21	0	0	0
+Root444D2	444D2	root-derived	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	5	0	0	0.011131313	5	0
+Root472D3	472D3	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	ND	3	0.015555556	11	0.001727273	2	0.042
+Root483D1	483D1	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	6	0.015060606	11	0.005934343	3	0.32
+Root483D2	483D2	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	6	0.011090909	6	0.004813131	2	0.342
+Root487D2Y	487D2Y	root-derived	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	7	0.01209596	9	0.001878788	1	0

@@ -1,0 +1,11 @@
+Genomes	Strains_old	Fraction	Phylum	class	Order	Family	Genus						
+Root63	63	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Streptomycetaceae	Streptomyces						
+Root68	68	root-derived	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas						
+Root71	71	root-derived	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas						
+Root401_Pacbio	401	root-derived	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas						
+Root342	342	root-derived	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter						
+Root562	562	root-derived	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas						
+Root569	569	root-derived	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas						
+Root690	690	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	ND						
+Root920	920	root-derived	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus						
+Root1310	1310	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Streptomycetaceae	Streptomyces						

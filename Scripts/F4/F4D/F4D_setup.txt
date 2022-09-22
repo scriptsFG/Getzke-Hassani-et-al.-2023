@@ -1,0 +1,8 @@
+Lawn_bacterium	Mutant_setup	Colony_pos	Colony	Producer	Mutant
+Rs	I	1	Top_left	R401	dpvdl
+Rs	I	2	Top_center	R401	dpvdyPVDY
+Rs	I	3	Top_right	R401	WT
+Rs	I	4	Mid_left	R401	tn5pvdy
+Rs	I	6	Mid_right	R401	dpvdy
+Rs	I	8	Bottom_center	R401	dpvdydpvdl
+Rs	I	9	Bottom_right	R401	dpvds

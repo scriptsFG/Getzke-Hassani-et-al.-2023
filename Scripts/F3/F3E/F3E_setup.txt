@@ -1,0 +1,3 @@
+Colony	Mutant
+Top_left	dphld
+Top_right	WT

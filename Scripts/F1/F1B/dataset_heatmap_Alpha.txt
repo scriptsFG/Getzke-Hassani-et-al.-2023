@@ -1,0 +1,318 @@
+DATASET_HEATMAP
+#In heatmaps, each ID is associated to multiple numeric values, which are displayed as a set of colored boxes defined by a color gradient
+#lines starting with a hash are comments and ignored during parsing
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file.
+SEPARATOR TAB
+#SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL	Alpha-
+
+#dataset color (can be changed later)
+COLOR	#32CD32
+
+#define labels for each individual field column
+FIELD_LABELS	Alpha-
+
+#=================================================================#
+#                    OPTIONAL SETTINGS                            #
+#=================================================================#
+
+
+#Heatmaps can have an optional Newick formatted tree assigned. Its leaf IDs must exactly match the dataset FIELD_LABELS.
+#The tree will be used to sort the dataset fields, and will be displayed above the dataset. It can have branch lengths defined.
+#All newlines and spaces should be stripped from the tree, and COMMA cannot be used as the dataset separator if a FIELD_TREE is provided.
+#FIELD_TREE (((f1:0.2,f5:0.5):1,(f2:0.2,f3:0.3):1.2):0.5,(f4:0.1,f6:0.5):0.8):1;
+
+
+#=================================================================#
+#     all other optional settings can be set or changed later     #
+#           in the web interface (under 'Datasets' tab)           #
+#=================================================================#
+
+#Each dataset can have a legend, which is defined using LEGEND_XXX fields below
+#For each row in the legend, there should be one shape, color and label.
+#Optionally, you can define an exact legend position using LEGEND_POSITION_X and LEGEND_POSITION_Y. To use automatic legend positioning, do NOT define these values
+#Optionally, shape scaling can be present (LEGEND_SHAPE_SCALES). For each shape, you can define a scaling factor between 0 and 1.
+#Shape should be a number between 1 and 6, or any protein domain shape definition.
+#1: square
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+#6: checkmark
+
+#LEGEND_TITLE,Dataset legend
+#LEGEND_POSITION_X,100
+#LEGEND_POSITION_Y,100
+#LEGEND_SHAPES,1,2,3
+#LEGEND_COLORS,#ff0000,#00ff00,#0000ff
+#LEGEND_LABELS,value1,value2,value3
+#LEGEND_SHAPE_SCALES,1,1,0.5
+
+#left margin, used to increase/decrease the spacing to the next dataset. Can be negative, causing datasets to overlap.
+#MARGIN 0
+
+#width of the individual boxes
+STRIP_WIDTH	35
+
+#always show internal values; if set, values associated to internal nodes will be displayed even if these nodes are not collapsed. It could cause overlapping in the dataset display.
+#SHOW_INTERNAL 0
+
+
+#show dashed lines between leaf labels and the dataset
+#DASHED_LINES 1
+
+#if a FIELD_TREE is present, it can be hidden by setting this option to 0
+#SHOW_TREE 1
+
+#define the color for the NULL values in the dataset. Use the letter X in the data to define the NULL values
+#COLOR_NAN #000000
+
+#automatically create and display a legend based on the color gradients and values defined below
+#AUTO_LEGEND 1
+
+#define the heatmap gradient colors. Values in the dataset will be mapped onto the corresponding color gradient.
+COLOR_MIN	#FFFFFF
+COLOR_MAX	#32CD32
+
+#you can specify a gradient with three colors (e.g red to yellow to green) by setting 'USE_MID_COLOR' to 1, and specifying the midpoint color
+#USE_MID_COLOR 1
+#COLOR_MID #ffff00
+
+#By default, color gradients will be calculated based on dataset values. You can force different values to use in the calculation by setting the values below:
+#USER_MIN_VALUE 0
+#USER_MID_VALUE 500
+#USER_MAX_VALUE 1000
+
+#border width; if set above 0, a border of specified width (in pixels) will be drawn around individual cells
+BORDER_WIDTH	1
+
+#border color; used only when BORDER_WIDTH is above 0
+BORDER_COLOR	#32CD32
+
+#display or hide the text labels above each field column
+#SHOW_LABELS 1
+
+#text label size factor
+#SIZE_FACTOR 1
+
+#text label rotation
+#LABEL_ROTATION 0
+
+#text label shift in pixels (positive or negative)
+#LABEL_SHIFT 0
+
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+R100	0.00511864406779661
+R101	0
+R102	0.00606779661016949
+R105	0.00410169491525424
+R107	0
+R11	0.00372881355932203
+R112D2	0
+R1203	0
+R1212	0
+R1217	0
+R122	0.0051864406779661
+R1220	0
+R1221	0
+R1238	0
+R123D2	0
+R1240	0
+R1252	0
+R1257	0
+R127	0.0120338983050847
+R1277	0
+R1280	0
+R1293	0
+R1294	0.00455932203389831
+R1295	0
+R1298	0
+R1304	0
+R131	0
+R1310	0.00383050847457627
+R1312	0
+R1319	0.00527118644067797
+R133	0
+R1334	0
+R135	0
+R136	0
+R137	0.00372881355932203
+R140	0
+R142	0
+R1455	0
+R147	0
+R149	0
+R151	0
+R154	0.0194576271186441
+R157	0
+R166	0
+R16D2	0
+R170	0.00866101694915254
+R172	0
+R179	0
+R180	0
+R181	0.00579661016949153
+R186	0
+R187	0
+R189	0.00583050847457627
+R190	0
+R198D2	0
+R214	0
+R217	0
+R219	0
+R22	0
+R224	0
+R227	0
+R231	0
+R236	0
+R239	0
+R240	0
+R241	0.00525423728813559
+R258	0.0159491525423729
+R264	0
+R265	0
+R267	0
+R268	0
+R274	0
+R275	0
+R278	0
+R280D1	0
+R29	0.00474576271186441
+R31	0
+R318D1	0
+R322	0
+R329	0.0109491525423729
+R332	0
+R335	0.0101016949152542
+R336D2	0.0043728813559322
+R342	0
+R343	0.0018135593220339
+R344	0
+R369	0.00135593220338983
+R381	0
+R4	0
+R401	0.0669830508474576
+R402	0
+R404	0.00516949152542373
+R411	0
+R413D1	0.0293050847457627
+R418	0
+R420	0.00559322033898305
+R423	0
+R431	0
+R434	0
+R436	0
+R444D2	0
+R456	0
+R472D3	0
+R473	0
+R480	0
+R482	0
+R483D1	0.00755932203389831
+R483D2	0.00788135593220339
+R485	0
+R487D2Y	0.00425423728813559
+R491	0
+R50	0.00474576271186441
+R53	0.00472881355932203
+R552	0
+R553	0
+R554	0
+R558	0
+R559	0.0115254237288136
+R561	0
+R562	0.016
+R563	0
+R564	0
+R565	0.0113559322033898
+R568	0
+R569	0.00627118644067797
+R60	0
+R604	0.00250847457627119
+R61	0
+R614	0
+R627	0.00669491525423729
+R63	0.0174237288135593
+R630	0
+R635	0.000644067796610169
+R65	0.00405084745762712
+R651	0.00179661016949153
+R656	0
+R667	0
+R670	0.00345762711864407
+R68	0.0447796610169491
+R682	0.027
+R685	0
+R690	0.022
+R695	0
+R70	0
+R700	0.00655932203389831
+R708	0
+R71	0.00442372881355932
+R710	0
+R720	0
+R73	0
+R74	0
+R76	0
+R77	0.00628813559322034
+R79	0
+R81	0.00283050847457627
+R83	0
+R85	0
+R9	0.00244067796610169
+R901	0.0224576271186441
+R916	0
+R918	0
+R920	0.0170169491525424
+R930	0.00408474576271186
+R935	0
+R954	0
+R96	0
+R983	0
+S522	0
+S531	0
+S535	0
+S538	0
+S724D2	0
+S728	0.00772881355932203
+S729	0
+S736	0
+S745	0.00550847457627119
+S748	0
+S750	0.00489830508474576
+S756	0
+S761	0
+S762	0
+S763	0
+S764	0
+S766	0
+S768D1	0
+S772	0
+S773	0
+S774	0
+S777	0
+S782	0
+S787	0
+S796	0
+S797	0.00525423728813559
+S803	0
+S805	0
+S809	0
+S810	0
+S811	0
+
+#ID1 value1 value2 value3 value4 value5 value6
+#You can use the 'X' letter instead of the numeric value to denote the empty fields. These will be colored using 'COLOR_NAN' option set above.
+#9606 100 300 250 100 50 210
+#15303 20 X 130 200 300 15

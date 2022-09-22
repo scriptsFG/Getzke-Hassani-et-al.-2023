@@ -1,0 +1,19 @@
+Isolate	Isolate2	Fraction	Phylum	Class	Order	Family	Genus	Sus_to_R401	Qsus_to_R401
+Root105	R105	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	ND	0.567	y
+Root131	R131	root-derived	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	0	x
+Root241	R241	root-derived	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	0	x
+Root265	R265	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Mycobacteriaceae	Mycobacterium	0.689	y
+Root29	R29	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	ND	0.442	y
+Root335	R335	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	0	x
+Root4	R4	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Microbacteriaceae	Agromyces	0.793	y
+Root401	R401	root-derived	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	0	x
+Root483D1	R483D1	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	0.32	y
+Root483D2	R483D2	root-derived	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium	0.342	y
+Root627	R627	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Rhodanobacter	0	x
+Root667	R667	root-derived	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	ND	0.159	y
+Root918	R918	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Promicromonosporaceae	ND	0	x
+Root930	R930	root-derived	Actinobacteria	Actinobacteria	Actinomycetales	Cellulomonadaceae	ND	1.215	y
+Root935	R935	root-derived	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	0	x
+Rs_GMI1000	Rs_GMI1000	root-derived	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	0.29	y
+Soil728	S728	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Intrasporangiaceae	Janibacter	0.406	y
+Soil736	S736	abundant soil	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Arthrobacter	0.48	y

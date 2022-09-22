@@ -1,0 +1,73 @@
+TSA_Plate	Position	Undiluted	Dilution_1	Dilution_2	Dilution_3				
+1	Top Left	9999	14	2					
+1	Top Right	45	5						
+1	Bottom Left	9999	63	8					
+1	Bottom Right	24	3						
+2	Top Left	9999	112	25					
+2	Top Right	9999	56	5					
+2	Bottom Left	9999	9999	26	4				
+2	Bottom Right	9999	47	5					
+3	Top Left	9999	58	3					
+3	Top Right	9999	61	3					
+3	Bottom Left	9999	72	6					
+3	Bottom Right	9999	29	3					
+4	Top Left	9999	48	4					
+4	Top Right	9999	84	13					
+4	Bottom Left	9999	9999	56	7				
+4	Bottom Right	9999	29	3					
+5	Top Left	9999	41	8					
+5	Top Right	9999	63	9					
+5	Bottom Left	9999	109	21					
+5	Bottom Right	9999	41	1					
+6	Top Left	9999	38	3					
+6	Top Right	9999	45	5					
+6	Bottom Left	9999	9999	54	4				
+6	Bottom Right	9999	53	5					
+7	Top Left	9999	57	6					
+7	Top Right	9999	64	7					
+7	Bottom Left	9999	70	7					
+7	Bottom Right	9999	75	13					
+8	Top Left	9999	9999	41	17				
+8	Top Right	9999	96						
+8	Bottom Left	9999	9999	42	9				
+8	Bottom Right	103	11						
+9	Top Left	9999	112	27					
+9	Top Right	9999	9999	49	6				
+9	Bottom Left	9999	41	5					
+9	Bottom Right	9999	113	18					
+10	Top Left	9999	64	7					
+10	Top Right	9999	75	6					
+10	Bottom Left	9999	84	15					
+10	Bottom Right	9999	67	13					
+11	Top Left	9999	55	9					
+11	Top Right	9999	9999	28	7				
+11	Bottom Left	9999	9999	24	2				
+11	Bottom Right	9999	22	4					
+12	Top Left	9999	87	21					
+12	Top Right	9999	73	12					
+12	Bottom Left	9999	92	19					
+12	Bottom Right	9999	105	16					
+13	Top Left	9999	21	2					
+13	Top Right	9999	59	8					
+13	Bottom Left	9999	127	16					
+13	Bottom Right	9999	76	10					
+14	Top Left	9999	26	4					
+14	Top Right	9999	9999	69	8				
+14	Bottom Left	9999	80	8					
+14	Bottom Right	9999	78	8					
+15	Top Left	9999	59	7					
+15	Top Right	9999	60	3					
+15	Bottom Left	9999	81	7					
+15	Bottom Right	9999	9999	71	11				
+16	Top Left	9999	67	9					
+16	Top Right	9999	9999	37	4				
+16	Bottom Left	9999	30	4					
+16	Bottom Right	9999	78	8					
+17	Top Left	9999	131	25					
+17	Top Right	105	11						
+17	Bottom Left	9999	111	26					
+17	Bottom Right	9999	104	8					
+18	Top Left	9999	85	17					
+18	Top Right	9999	35	3					
+18	Bottom Left	91	17						
+18	Bottom Right	9999	145	23					

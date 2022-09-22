@@ -1,0 +1,13 @@
+Colony	Mutant			
+Top_left	dDAPG						
+Top_right	WT			
+Mid_left	dDAPGdAcT					
+Mid_right	dAcT			
+Bottom_left	dDAPGdNRPS			
+Bottom_center	cAcT			
+Bottom_right	dNRPS			
+				
+				
+				
+				
+				

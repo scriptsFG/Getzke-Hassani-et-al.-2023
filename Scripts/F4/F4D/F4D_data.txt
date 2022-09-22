@@ -1,0 +1,811 @@
+Lawn_bacterium	Mutant_setup	Iron	Plate	Colony_pos	Colony	Measurement	Halo_size_mm							
+Rs	I	___	1	1	Top_left	1	4.579							
+Rs	I	___	1	1	Top_left	2	4.833							
+Rs	I	___	1	1	Top_left	3	3.902							
+Rs	I	___	1	1	Top_left	4	4.323							
+Rs	I	___	1	1	Top_left	5	4.374							
+Rs	I	___	1	2	Top_center	1	5.254							
+Rs	I	___	1	2	Top_center	2	5.342							
+Rs	I	___	1	2	Top_center	3	5.001							
+Rs	I	___	1	2	Top_center	4	5.339							
+Rs	I	___	1	2	Top_center	5	5.393							
+Rs	I	___	1	3	Top_right	1	5.426							
+Rs	I	___	1	3	Top_right	2	5.342							
+Rs	I	___	1	3	Top_right	3	5.345							
+Rs	I	___	1	3	Top_right	4	5.340							
+Rs	I	___	1	3	Top_right	5	5.560							
+Rs	I	___	1	4	Mid_left	1	4.245							
+Rs	I	___	1	4	Mid_left	2	4.407							
+Rs	I	___	1	4	Mid_left	3	4.492							
+Rs	I	___	1	4	Mid_left	4	4.238							
+Rs	I	___	1	4	Mid_left	5	4.363							
+Rs	I	___	1	5	Mid_center	1								
+Rs	I	___	1	5	Mid_center	2								
+Rs	I	___	1	5	Mid_center	3								
+Rs	I	___	1	5	Mid_center	4								
+Rs	I	___	1	5	Mid_center	5								
+Rs	I	___	1	6	Mid_right	1	4.747							
+Rs	I	___	1	6	Mid_right	2	4.410							
+Rs	I	___	1	6	Mid_right	3	4.323							
+Rs	I	___	1	6	Mid_right	4	4.577							
+Rs	I	___	1	6	Mid_right	5	4.527							
+Rs	I	___	1	7	Bottom_left	1								
+Rs	I	___	1	7	Bottom_left	2								
+Rs	I	___	1	7	Bottom_left	3								
+Rs	I	___	1	7	Bottom_left	4								
+Rs	I	___	1	7	Bottom_left	5								
+Rs	I	___	1	8	Bottom_center	1	4.325							
+Rs	I	___	1	8	Bottom_center	2	4.245							
+Rs	I	___	1	8	Bottom_center	3	3.984							
+Rs	I	___	1	8	Bottom_center	4	4.153							
+Rs	I	___	1	8	Bottom_center	5	4.265							
+Rs	I	___	1	9	Bottom_right	1	4.661							
+Rs	I	___	1	9	Bottom_right	2	4.576							
+Rs	I	___	1	9	Bottom_right	3	4.615							
+Rs	I	___	1	9	Bottom_right	4	4.664							
+Rs	I	___	1	9	Bottom_right	5	4.794							
+Rs	I	___	2	1	Top_left	1	5.260							
+Rs	I	___	2	1	Top_left	2	5.169							
+Rs	I	___	2	1	Top_left	3	5.088							
+Rs	I	___	2	1	Top_left	4	4.749							
+Rs	I	___	2	1	Top_left	5	5.077							
+Rs	I	___	2	2	Top_center	1	5.511							
+Rs	I	___	2	2	Top_center	2	5.424							
+Rs	I	___	2	2	Top_center	3	5.345							
+Rs	I	___	2	2	Top_center	4	5.339							
+Rs	I	___	2	2	Top_center	5	5.644							
+Rs	I	___	2	3	Top_right	1	5.679							
+Rs	I	___	2	3	Top_right	2	5.424							
+Rs	I	___	2	3	Top_right	3	5.085							
+Rs	I	___	2	3	Top_right	4	5.187							
+Rs	I	___	2	3	Top_right	5	4.927							
+Rs	I	___	2	4	Mid_left	1	4.579							
+Rs	I	___	2	4	Mid_left	2	4.746							
+Rs	I	___	2	4	Mid_left	3	4.408							
+Rs	I	___	2	4	Mid_left	4	4.664							
+Rs	I	___	2	4	Mid_left	5	4.618							
+Rs	I	___	2	5	Mid_center	1								
+Rs	I	___	2	5	Mid_center	2								
+Rs	I	___	2	5	Mid_center	3								
+Rs	I	___	2	5	Mid_center	4								
+Rs	I	___	2	5	Mid_center	5								
+Rs	I	___	2	6	Mid_right	1	4.153							
+Rs	I	___	2	6	Mid_right	2	4.325							
+Rs	I	___	2	6	Mid_right	3	3.991							
+Rs	I	___	2	6	Mid_right	4	3.899							
+Rs	I	___	2	6	Mid_right	5	3.907							
+Rs	I	___	2	7	Bottom_left	1								
+Rs	I	___	2	7	Bottom_left	2								
+Rs	I	___	2	7	Bottom_left	3								
+Rs	I	___	2	7	Bottom_left	4								
+Rs	I	___	2	7	Bottom_left	5								
+Rs	I	___	2	8	Bottom_center	1	4.330							
+Rs	I	___	2	8	Bottom_center	2	4.408							
+Rs	I	___	2	8	Bottom_center	3	3.729							
+Rs	I	___	2	8	Bottom_center	4	4.069							
+Rs	I	___	2	8	Bottom_center	5	4.688							
+Rs	I	___	2	9	Bottom_right	1	5.509							
+Rs	I	___	2	9	Bottom_right	2	5.596							
+Rs	I	___	2	9	Bottom_right	3	5.257							
+Rs	I	___	2	9	Bottom_right	4	5.170							
+Rs	I	___	2	9	Bottom_right	5	5.159							
+Rs	I	___	3	1	Top_left	1	4.833							
+Rs	I	___	3	1	Top_left	2	4.831							
+Rs	I	___	3	1	Top_left	3	4.492							
+Rs	I	___	3	1	Top_left	4	4.407							
+Rs	I	___	3	1	Top_left	5	4.447							
+Rs	I	___	3	2	Top_center	1	6.358							
+Rs	I	___	3	2	Top_center	2	6.356							
+Rs	I	___	3	2	Top_center	3	6.192							
+Rs	I	___	3	2	Top_center	4	5.603							
+Rs	I	___	3	2	Top_center	5	6.159							
+Rs	I	___	3	3	Top_right	1	5.847							
+Rs	I	___	3	3	Top_right	2	5.763							
+Rs	I	___	3	3	Top_right	3	4.662							
+Rs	I	___	3	3	Top_right	4	5.424							
+Rs	I	___	3	3	Top_right	5	5.323							
+Rs	I	___	3	4	Mid_left	1	3.729							
+Rs	I	___	3	4	Mid_left	2	4.576							
+Rs	I	___	3	4	Mid_left	3	4.068							
+Rs	I	___	3	4	Mid_left	4	4.068							
+Rs	I	___	3	4	Mid_left	5	4.082							
+Rs	I	___	3	5	Mid_center	1								
+Rs	I	___	3	5	Mid_center	2								
+Rs	I	___	3	5	Mid_center	3								
+Rs	I	___	3	5	Mid_center	4								
+Rs	I	___	3	5	Mid_center	5								
+Rs	I	___	3	6	Mid_right	1	5.596							
+Rs	I	___	3	6	Mid_right	2	4.629							
+Rs	I	___	3	6	Mid_right	3	4.688							
+Rs	I	___	3	6	Mid_right	4	4.193							
+Rs	I	___	3	6	Mid_right	5	4.331							
+Rs	I	___	3	7	Bottom_left	1								
+Rs	I	___	3	7	Bottom_left	2								
+Rs	I	___	3	7	Bottom_left	3								
+Rs	I	___	3	7	Bottom_left	4								
+Rs	I	___	3	7	Bottom_left	5								
+Rs	I	___	3	8	Bottom_center	1	4.071							
+Rs	I	___	3	8	Bottom_center	2	4.579							
+Rs	I	___	3	8	Bottom_center	3	4.068							
+Rs	I	___	3	8	Bottom_center	4	4.241							
+Rs	I	___	3	8	Bottom_center	5	4.397							
+Rs	I	___	3	9	Bottom_right	1	4.407							
+Rs	I	___	3	9	Bottom_right	2	4.918							
+Rs	I	___	3	9	Bottom_right	3	4.589							
+Rs	I	___	3	9	Bottom_right	4	5.088							
+Rs	I	___	3	9	Bottom_right	5	4.397							
+Rs	I	___	4	1	Top_left	1	4.746							
+Rs	I	___	4	1	Top_left	2	4.577							
+Rs	I	___	4	1	Top_left	3	4.325							
+Rs	I	___	4	1	Top_left	4	4.664							
+Rs	I	___	4	1	Top_left	5	4.633							
+Rs	I	___	4	2	Top_center	1	6.782							
+Rs	I	___	4	2	Top_center	2	5.763							
+Rs	I	___	4	2	Top_center	3	6.018							
+Rs	I	___	4	2	Top_center	4	6.017							
+Rs	I	___	4	2	Top_center	5	6.324							
+Rs	I	___	4	3	Top_right	1	4.661							
+Rs	I	___	4	3	Top_right	2	4.414							
+Rs	I	___	4	3	Top_right	3	4.408							
+Rs	I	___	4	3	Top_right	4	4.241							
+Rs	I	___	4	3	Top_right	5	4.395							
+Rs	I	___	4	4	Mid_left	1	4.322							
+Rs	I	___	4	4	Mid_left	2	4.495							
+Rs	I	___	4	4	Mid_left	3	3.391							
+Rs	I	___	4	4	Mid_left	4	4.408							
+Rs	I	___	4	4	Mid_left	5	4.520							
+Rs	I	___	4	5	Mid_center	1								
+Rs	I	___	4	5	Mid_center	2								
+Rs	I	___	4	5	Mid_center	3								
+Rs	I	___	4	5	Mid_center	4								
+Rs	I	___	4	5	Mid_center	5								
+Rs	I	___	4	6	Mid_right	1	4.076							
+Rs	I	___	4	6	Mid_right	2	4.082							
+Rs	I	___	4	6	Mid_right	3	3.907							
+Rs	I	___	4	6	Mid_right	4	4.420							
+Rs	I	___	4	6	Mid_right	5	4.495							
+Rs	I	___	4	7	Bottom_left	1								
+Rs	I	___	4	7	Bottom_left	2								
+Rs	I	___	4	7	Bottom_left	3								
+Rs	I	___	4	7	Bottom_left	4								
+Rs	I	___	4	7	Bottom_left	5								
+Rs	I	___	4	8	Bottom_center	1	4.238							
+Rs	I	___	4	8	Bottom_center	2	3.305							
+Rs	I	___	4	8	Bottom_center	3	3.271							
+Rs	I	___	4	8	Bottom_center	4	3.907							
+Rs	I	___	4	8	Bottom_center	5	4.323							
+Rs	I	___	4	9	Bottom_right	1	4.749							
+Rs	I	___	4	9	Bottom_right	2	4.504							
+Rs	I	___	4	9	Bottom_right	3	4.492							
+Rs	I	___	4	9	Bottom_right	4	4.436							
+Rs	I	___	4	9	Bottom_right	5	4.915							
+Rs	I	___	5	1	Top_left	1	3.315							
+Rs	I	___	5	1	Top_left	2	3.559							
+Rs	I	___	5	1	Top_left	3	3.390							
+Rs	I	___	5	1	Top_left	4	3.733							
+Rs	I	___	5	1	Top_left	5	3.364							
+Rs	I	___	5	2	Top_center	1	4.579							
+Rs	I	___	5	2	Top_center	2	4.576							
+Rs	I	___	5	2	Top_center	3	4.589							
+Rs	I	___	5	2	Top_center	4	4.410							
+Rs	I	___	5	2	Top_center	5	4.237							
+Rs	I	___	5	3	Top_right	1	4.071							
+Rs	I	___	5	3	Top_right	2	4.241							
+Rs	I	___	5	3	Top_right	3	4.071							
+Rs	I	___	5	3	Top_right	4	4.068							
+Rs	I	___	5	3	Top_right	5	4.075							
+Rs	I	___	5	4	Mid_left	1	3.056							
+Rs	I	___	5	4	Mid_left	2	3.733							
+Rs	I	___	5	4	Mid_left	3	3.407							
+Rs	I	___	5	4	Mid_left	4	3.051							
+Rs	I	___	5	4	Mid_left	5	3.390							
+Rs	I	___	5	5	Mid_center	1								
+Rs	I	___	5	5	Mid_center	2								
+Rs	I	___	5	5	Mid_center	3								
+Rs	I	___	5	5	Mid_center	4								
+Rs	I	___	5	5	Mid_center	5								
+Rs	I	___	5	6	Mid_right	1	3.407							
+Rs	I	___	5	6	Mid_right	2	3.407							
+Rs	I	___	5	6	Mid_right	3	3.394							
+Rs	I	___	5	6	Mid_right	4	3.729							
+Rs	I	___	5	6	Mid_right	5	3.432							
+Rs	I	___	5	7	Bottom_left	1								
+Rs	I	___	5	7	Bottom_left	2								
+Rs	I	___	5	7	Bottom_left	3								
+Rs	I	___	5	7	Bottom_left	4								
+Rs	I	___	5	7	Bottom_left	5								
+Rs	I	___	5	8	Bottom_center	1	3.225							
+Rs	I	___	5	8	Bottom_center	2	3.390							
+Rs	I	___	5	8	Bottom_center	3	3.394							
+Rs	I	___	5	8	Bottom_center	4	4.071							
+Rs	I	___	5	8	Bottom_center	5	3.256							
+Rs	I	___	5	9	Bottom_right	1	4.927							
+Rs	I	___	5	9	Bottom_right	2	5.254							
+Rs	I	___	5	9	Bottom_right	3	5.279							
+Rs	I	___	5	9	Bottom_right	4	5.110							
+Rs	I	___	5	9	Bottom_right	5	5.031							
+Rs	I	___	6	1	Top_left	1	4.323							
+Rs	I	___	6	1	Top_left	2	4.241							
+Rs	I	___	6	1	Top_left	3	4.330							
+Rs	I	___	6	1	Top_left	4	4.153							
+Rs	I	___	6	1	Top_left	5	4.256							
+Rs	I	___	6	2	Top_center	1	4.933							
+Rs	I	___	6	2	Top_center	2	5.085							
+Rs	I	___	6	2	Top_center	3	5.011							
+Rs	I	___	6	2	Top_center	4	5.001							
+Rs	I	___	6	2	Top_center	5	5.111							
+Rs	I	___	6	3	Top_right	1	4.837							
+Rs	I	___	6	3	Top_right	2	4.842							
+Rs	I	___	6	3	Top_right	3	4.577							
+Rs	I	___	6	3	Top_right	4	4.747							
+Rs	I	___	6	3	Top_right	5	4.676							
+Rs	I	___	6	4	Mid_left	1	3.898							
+Rs	I	___	6	4	Mid_left	2	3.902							
+Rs	I	___	6	4	Mid_left	3	3.733							
+Rs	I	___	6	4	Mid_left	4	3.898							
+Rs	I	___	6	4	Mid_left	5	3.843							
+Rs	I	___	6	5	Mid_center	1								
+Rs	I	___	6	5	Mid_center	2								
+Rs	I	___	6	5	Mid_center	3								
+Rs	I	___	6	5	Mid_center	4								
+Rs	I	___	6	5	Mid_center	5								
+Rs	I	___	6	6	Mid_right	1	3.220							
+Rs	I	___	6	6	Mid_right	2	3.563							
+Rs	I	___	6	6	Mid_right	3	3.225							
+Rs	I	___	6	6	Mid_right	4	3.559							
+Rs	I	___	6	6	Mid_right	5	3.343							
+Rs	I	___	6	7	Bottom_left	1								
+Rs	I	___	6	7	Bottom_left	2								
+Rs	I	___	6	7	Bottom_left	3								
+Rs	I	___	6	7	Bottom_left	4								
+Rs	I	___	6	7	Bottom_left	5								
+Rs	I	___	6	8	Bottom_center	1	3.220							
+Rs	I	___	6	8	Bottom_center	2	3.563							
+Rs	I	___	6	8	Bottom_center	3	3.225							
+Rs	I	___	6	8	Bottom_center	4	3.559							
+Rs	I	___	6	8	Bottom_center	5	3.343							
+Rs	I	___	6	9	Bottom_right	1	3.220							
+Rs	I	___	6	9	Bottom_right	2	3.563							
+Rs	I	___	6	9	Bottom_right	3	3.225							
+Rs	I	___	6	9	Bottom_right	4	3.559							
+Rs	I	___	6	9	Bottom_right	5	3.343							
+Rs	I	___	7	1	Top_left	1	4.604							
+Rs	I	___	7	1	Top_left	2	4.680							
+Rs	I	___	7	1	Top_left	3	4.673							
+Rs	I	___	7	1	Top_left	4	4.747							
+Rs	I	___	7	1	Top_left	5	4.618							
+Rs	I	___	7	2	Top_center	1	5.680							
+Rs	I	___	7	2	Top_center	2	5.514							
+Rs	I	___	7	2	Top_center	3	5.426							
+Rs	I	___	7	2	Top_center	4	5.509							
+Rs	I	___	7	2	Top_center	5	5.130							
+Rs	I	___	7	3	Top_right	1	5.088							
+Rs	I	___	7	3	Top_right	2	5.130							
+Rs	I	___	7	3	Top_right	3	5.181							
+Rs	I	___	7	3	Top_right	4	4.872							
+Rs	I	___	7	3	Top_right	5	5.102							
+Rs	I	___	7	4	Mid_left	1	4.495							
+Rs	I	___	7	4	Mid_left	2	4.385							
+Rs	I	___	7	4	Mid_left	3	4.068							
+Rs	I	___	7	4	Mid_left	4	4.156							
+Rs	I	___	7	4	Mid_left	5	4.237							
+Rs	I	___	7	5	Mid_center	1								
+Rs	I	___	7	5	Mid_center	2								
+Rs	I	___	7	5	Mid_center	3								
+Rs	I	___	7	5	Mid_center	4								
+Rs	I	___	7	5	Mid_center	5								
+Rs	I	___	7	6	Mid_right	1	4.210							
+Rs	I	___	7	6	Mid_right	2	3.907							
+Rs	I	___	7	6	Mid_right	3	3.575							
+Rs	I	___	7	6	Mid_right	4	3.660							
+Rs	I	___	7	6	Mid_right	5	4.096							
+Rs	I	___	7	7	Bottom_left	1								
+Rs	I	___	7	7	Bottom_left	2								
+Rs	I	___	7	7	Bottom_left	3								
+Rs	I	___	7	7	Bottom_left	4								
+Rs	I	___	7	7	Bottom_left	5								
+Rs	I	___	7	8	Bottom_center	1	4.241							
+Rs	I	___	7	8	Bottom_center	2	4.156							
+Rs	I	___	7	8	Bottom_center	3	3.991							
+Rs	I	___	7	8	Bottom_center	4	3.866							
+Rs	I	___	7	8	Bottom_center	5	4.068							
+Rs	I	___	7	9	Bottom_right	1	4.408							
+Rs	I	___	7	9	Bottom_right	2	4.026							
+Rs	I	___	7	9	Bottom_right	3	4.237							
+Rs	I	___	7	9	Bottom_right	4	4.222							
+Rs	I	___	7	9	Bottom_right	5	4.237							
+Rs	I	___	8	1	Top_left	1	4.749							
+Rs	I	___	8	1	Top_left	2	4.915							
+Rs	I	___	8	1	Top_left	3	4.407							
+Rs	I	___	8	1	Top_left	4	4.664							
+Rs	I	___	8	1	Top_left	5	4.395							
+Rs	I	___	8	2	Top_center	1	5.680							
+Rs	I	___	8	2	Top_center	2	5.684							
+Rs	I	___	8	2	Top_center	3	4.749							
+Rs	I	___	8	2	Top_center	4	5.350							
+Rs	I	___	8	2	Top_center	5	5.495							
+Rs	I	___	8	3	Top_right	1	5.434							
+Rs	I	___	8	3	Top_right	2	5.434							
+Rs	I	___	8	3	Top_right	3	4.977							
+Rs	I	___	8	3	Top_right	4	5.181							
+Rs	I	___	8	3	Top_right	5	5.344							
+Rs	I	___	8	4	Mid_left	1	3.391							
+Rs	I	___	8	4	Mid_left	2	3.391							
+Rs	I	___	8	4	Mid_left	3	2.971							
+Rs	I	___	8	4	Mid_left	4	3.391							
+Rs	I	___	8	4	Mid_left	5	3.256							
+Rs	I	___	8	5	Mid_center	1								
+Rs	I	___	8	5	Mid_center	2								
+Rs	I	___	8	5	Mid_center	3								
+Rs	I	___	8	5	Mid_center	4								
+Rs	I	___	8	5	Mid_center	5								
+Rs	I	___	8	6	Mid_right	1	3.476							
+Rs	I	___	8	6	Mid_right	2	3.458							
+Rs	I	___	8	6	Mid_right	3	3.390							
+Rs	I	___	8	6	Mid_right	4	3.809							
+Rs	I	___	8	6	Mid_right	5	3.790							
+Rs	I	___	8	7	Bottom_left	1								
+Rs	I	___	8	7	Bottom_left	2								
+Rs	I	___	8	7	Bottom_left	3								
+Rs	I	___	8	7	Bottom_left	4								
+Rs	I	___	8	7	Bottom_left	5								
+Rs	I	___	8	8	Bottom_center	1	3.733							
+Rs	I	___	8	8	Bottom_center	2	3.306							
+Rs	I	___	8	8	Bottom_center	3	3.394							
+Rs	I	___	8	8	Bottom_center	4	3.309							
+Rs	I	___	8	8	Bottom_center	5	3.605							
+Rs	I	___	8	9	Bottom_right	1	4.238							
+Rs	I	___	8	9	Bottom_right	2	4.556							
+Rs	I	___	8	9	Bottom_right	3	4.408							
+Rs	I	___	8	9	Bottom_right	4	4.495							
+Rs	I	___	8	9	Bottom_right	5	4.449							
+Rs	I	___	9	1	Top_left	1	4.495					208.333	-87.839	4.495
+Rs	I	___	9	1	Top_left	2	4.275					206.000	-140.631	4.275
+Rs	I	___	9	1	Top_left	3	4.289					145.667	-52.224	4.289
+Rs	I	___	9	1	Top_left	4	4.210					210.667	-139.899	4.210
+Rs	I	___	9	1	Top_left	5	4.330					105.005	-40.236	4.330
+Rs	I	___	9	2	Top_center	1	5.172					176.667	1.878	5.172
+Rs	I	___	9	2	Top_center	2	5.336					112.333	-57.319	5.336
+Rs	I	___	9	2	Top_center	3	5.469					117.667	-130.601	5.469
+Rs	I	___	9	2	Top_center	4	5.230					149.000	-49.600	5.230
+Rs	I	___	9	2	Top_center	5	5.188					131.333	-141.633	5.188
+Rs	I	___	9	3	Top_right	1	4.983					171.667	-48.447	4.983
+Rs	I	___	9	3	Top_right	2	4.922					202.000	-92.961	4.922
+Rs	I	___	9	3	Top_right	3	5.085					184.667	0.000	5.085
+Rs	I	___	9	3	Top_right	4	5.001					154.000	-90.971	5.001
+Rs	I	___	9	3	Top_right	5	4.972					152.333	-119.624	4.972
+Rs	I	___	9	4	Mid_left	1	3.907					222.000	-93.731	3.907
+Rs	I	___	9	4	Mid_left	2	4.160					162.333	3.504	4.160
+Rs	I	___	9	4	Mid_left	3	3.815					186.333	-88.727	3.815
+Rs	I	___	9	4	Mid_left	4	4.068					117.667	0.000	4.068
+Rs	I	___	9	4	Mid_left	5	4.069					214.333	-54.324	4.069
+Rs	I	___	9	5	Mid_center	1						219.000	-90.000	4.068
+Rs	I	___	9	5	Mid_center	2						206.000	-1.146	4.238
+Rs	I	___	9	5	Mid_center	3						243.333	-83.928	4.006
+Rs	I	___	9	5	Mid_center	4						169.000	-54.162	3.763
+Rs	I	___	9	5	Mid_center	5						148.667	-90.000	3.898
+Rs	I	___	9	6	Mid_right	1	4.068					227.000	-88.603	3.476
+Rs	I	___	9	6	Mid_right	2	4.238					207.667	-2.793	3.479
+Rs	I	___	9	6	Mid_right	3	4.006					242.667	-88.603	3.476
+Rs	I	___	9	6	Mid_right	4	3.763					196.333	-1.364	3.560
+Rs	I	___	9	6	Mid_right	5	3.898					160.667	-53.973	3.458
+Rs	I	___	9	7	Bottom_left	1						214.333	-91.023	4.747
+Rs	I	___	9	7	Bottom_left	2						207.333	-2.862	5.091
+Rs	I	___	9	7	Bottom_left	3						168.667	-86.987	4.837
+Rs	I	___	9	7	Bottom_left	4						225.333	0.000	4.746
+Rs	I	___	9	7	Bottom_left	5						216.000	-55.751	4.819
+Rs	I	___	9	8	Bottom_center	1	3.476							
+Rs	I	___	9	8	Bottom_center	2	3.479							
+Rs	I	___	9	8	Bottom_center	3	3.476							
+Rs	I	___	9	8	Bottom_center	4	3.560							
+Rs	I	___	9	8	Bottom_center	5	3.458							
+Rs	I	___	9	9	Bottom_right	1	4.747							
+Rs	I	___	9	9	Bottom_right	2	5.091							
+Rs	I	___	9	9	Bottom_right	3	4.837							
+Rs	I	___	9	9	Bottom_right	4	4.746							
+Rs	I	___	9	9	Bottom_right	5	4.819							
+Rs	I	___	10	1	Top_left	1	4.323							
+Rs	I	___	10	1	Top_left	2	4.661							
+Rs	I	___	10	1	Top_left	3	4.493							
+Rs	I	___	10	1	Top_left	4	4.451							
+Rs	I	___	10	1	Top_left	5	4.492							
+Rs	I	___	10	2	Top_center	1	5.634							
+Rs	I	___	10	2	Top_center	2	5.618							
+Rs	I	___	10	2	Top_center	3	5.665							
+Rs	I	___	10	2	Top_center	4	6.676							
+Rs	I	___	10	2	Top_center	5	5.778							
+Rs	I	___	10	3	Top_right	1	6.116							
+Rs	I	___	10	3	Top_right	2	6.032							
+Rs	I	___	10	3	Top_right	3	5.509							
+Rs	I	___	10	3	Top_right	4	5.424							
+Rs	I	___	10	3	Top_right	5	5.665							
+Rs	I	___	10	4	Mid_left	1	4.408							
+Rs	I	___	10	4	Mid_left	2	4.579							
+Rs	I	___	10	4	Mid_left	3	3.899							
+Rs	I	___	10	4	Mid_left	4	4.153							
+Rs	I	___	10	4	Mid_left	5	4.000							
+Rs	I	___	10	5	Mid_center	1								
+Rs	I	___	10	5	Mid_center	2								
+Rs	I	___	10	5	Mid_center	3								
+Rs	I	___	10	5	Mid_center	4								
+Rs	I	___	10	5	Mid_center	5								
+Rs	I	___	10	6	Mid_right	1	4.577							
+Rs	I	___	10	6	Mid_right	2	4.408							
+Rs	I	___	10	6	Mid_right	3	4.237							
+Rs	I	___	10	6	Mid_right	4	4.749							
+Rs	I	___	10	6	Mid_right	5	4.472							
+Rs	I	___	10	7	Bottom_left	1								
+Rs	I	___	10	7	Bottom_left	2								
+Rs	I	___	10	7	Bottom_left	3								
+Rs	I	___	10	7	Bottom_left	4								
+Rs	I	___	10	7	Bottom_left	5								
+Rs	I	___	10	8	Bottom_center	1	3.052							
+Rs	I	___	10	8	Bottom_center	2	3.729							
+Rs	I	___	10	8	Bottom_center	3	3.910							
+Rs	I	___	10	8	Bottom_center	4	3.907							
+Rs	I	___	10	8	Bottom_center	5	3.375							
+Rs	I	___	10	9	Bottom_right	1	5.170							
+Rs	I	___	10	9	Bottom_right	2	4.577							
+Rs	I	___	10	9	Bottom_right	3	4.746							
+Rs	I	___	10	9	Bottom_right	4	4.542							
+Rs	I	___	10	9	Bottom_right	5	5.172							
+Rs	I	___	11	1	Top_left	1	4.589					218.333	-85.764	4.589
+Rs	I	___	11	1	Top_left	2	4.664					145.436	2.083	4.664
+Rs	I	___	11	1	Top_left	3	4.542					199.000	-75.964	4.542
+Rs	I	___	11	1	Top_left	4	4.527					151.000	-141.843	4.527
+Rs	I	___	11	1	Top_left	5	4.492					160.667	-35.789	4.492
+Rs	I	___	11	2	Top_center	1	4.374					151.333	-144.462	4.374
+Rs	I	___	11	2	Top_center	2	5.785					177.667	-84.958	5.785
+Rs	I	___	11	2	Top_center	3	5.596					90.000	1.736	5.596
+Rs	I	___	11	2	Top_center	4	5.768					162.333	-87.474	5.768
+Rs	I	___	11	2	Top_center	5	5.684					150.667	-2.564	5.684
+Rs	I	___	11	3	Top_right	1	5.424					227.333	-90.000	5.424
+Rs	I	___	11	3	Top_right	2	5.085					189.000	0.000	5.085
+Rs	I	___	11	3	Top_right	3	5.001					146.667	-89.029	5.001
+Rs	I	___	11	3	Top_right	4	5.295					216.333	39.806	5.295
+Rs	I	___	11	3	Top_right	5	5.034					166.333	36.098	5.034
+Rs	I	___	11	4	Mid_left	1	4.410					211.667	-92.203	4.410
+Rs	I	___	11	4	Mid_left	2	4.492					211.333	0.000	4.492
+Rs	I	___	11	4	Mid_left	3	4.099					164.333	-82.875	4.099
+Rs	I	___	11	4	Mid_left	4	4.661					215.667	0.000	4.661
+Rs	I	___	11	4	Mid_left	5	4.583					232.333	-86.820	4.583
+Rs	I	___	11	5	Mid_center	1						187.333	-1.081	4.492
+Rs	I	___	11	5	Mid_center	2						115.000	-90.000	3.814
+Rs	I	___	11	5	Mid_center	3						188.667	4.764	4.082
+Rs	I	___	11	5	Mid_center	4						151.333	-128.853	3.918
+Rs	I	___	11	5	Mid_center	5						231.667	-45.000	3.835
+Rs	I	___	11	6	Mid_right	1	4.492					220.333	-87.663	4.156
+Rs	I	___	11	6	Mid_right	2	3.814					196.333	-30.343	4.026
+Rs	I	___	11	6	Mid_right	3	4.082					217.333	-85.030	3.913
+Rs	I	___	11	6	Mid_right	4	3.918					180.000	18.060	4.100
+Rs	I	___	11	6	Mid_right	5	3.835					162.000	-65.556	4.096
+Rs	I	___	11	7	Bottom_left	1						193.333	-86.309	5.265
+Rs	I	___	11	7	Bottom_left	2						145.000	2.862	5.091
+Rs	I	___	11	7	Bottom_left	3						191.333	-87.089	5.006
+Rs	I	___	11	7	Bottom_left	4						171.333	-65.556	5.120
+Rs	I	___	11	7	Bottom_left	5						155.333	-137.726	5.039
+Rs	I	___	11	8	Bottom_center	1	4.156							
+Rs	I	___	11	8	Bottom_center	2	4.026							
+Rs	I	___	11	8	Bottom_center	3	3.913							
+Rs	I	___	11	8	Bottom_center	4	4.100							
+Rs	I	___	11	8	Bottom_center	5	4.096							
+Rs	I	___	11	9	Bottom_right	1	5.265							
+Rs	I	___	11	9	Bottom_right	2	5.091							
+Rs	I	___	11	9	Bottom_right	3	5.006							
+Rs	I	___	11	9	Bottom_right	4	5.120							
+Rs	I	___	11	9	Bottom_right	5	5.039							
+Rs	I	___	12	1	Top_left	1	5.088							
+Rs	I	___	12	1	Top_left	2	4.746							
+Rs	I	___	12	1	Top_left	3	4.241							
+Rs	I	___	12	1	Top_left	4	5.085							
+Rs	I	___	12	1	Top_left	5	5.085							
+Rs	I	___	12	2	Top_center	1	6.356							
+Rs	I	___	12	2	Top_center	2	6.280							
+Rs	I	___	12	2	Top_center	3	5.350							
+Rs	I	___	12	2	Top_center	4	5.679							
+Rs	I	___	12	2	Top_center	5	5.997							
+Rs	I	___	12	3	Top_right	1	5.773							
+Rs	I	___	12	3	Top_right	2	5.947							
+Rs	I	___	12	3	Top_right	3	5.440							
+Rs	I	___	12	3	Top_right	4	5.340							
+Rs	I	___	12	3	Top_right	5	5.336							
+Rs	I	___	12	4	Mid_left	1	4.156							
+Rs	I	___	12	4	Mid_left	2	4.153							
+Rs	I	___	12	4	Mid_left	3	3.814							
+Rs	I	___	12	4	Mid_left	4	3.898							
+Rs	I	___	12	4	Mid_left	5	3.957							
+Rs	I	___	12	5	Mid_center	1								
+Rs	I	___	12	5	Mid_center	2								
+Rs	I	___	12	5	Mid_center	3								
+Rs	I	___	12	5	Mid_center	4								
+Rs	I	___	12	5	Mid_center	5								
+Rs	I	___	12	6	Mid_right	1	4.330							
+Rs	I	___	12	6	Mid_right	2	4.495							
+Rs	I	___	12	6	Mid_right	3	4.238							
+Rs	I	___	12	6	Mid_right	4	4.408							
+Rs	I	___	12	6	Mid_right	5	4.321							
+Rs	I	___	12	7	Bottom_left	1								
+Rs	I	___	12	7	Bottom_left	2								
+Rs	I	___	12	7	Bottom_left	3								
+Rs	I	___	12	7	Bottom_left	4								
+Rs	I	___	12	7	Bottom_left	5								
+Rs	I	___	12	8	Bottom_center	1	3.991							
+Rs	I	___	12	8	Bottom_center	2	4.076							
+Rs	I	___	12	8	Bottom_center	3	3.913							
+Rs	I	___	12	8	Bottom_center	4	3.898							
+Rs	I	___	12	8	Bottom_center	5	3.950							
+Rs	I	___	12	9	Bottom_right	1	5.172							
+Rs	I	___	12	9	Bottom_right	2	5.581							
+Rs	I	___	12	9	Bottom_right	3	4.884							
+Rs	I	___	12	9	Bottom_right	4	4.749							
+Rs	I	___	12	9	Bottom_right	5	5.340							
+Rs	I	___	13	1	Top_left	1	4.749							
+Rs	I	___	13	1	Top_left	2	4.492							
+Rs	I	___	13	1	Top_left	3	4.407							
+Rs	I	___	13	1	Top_left	4	4.492							
+Rs	I	___	13	1	Top_left	5	4.492							
+Rs	I	___	13	2	Top_center	1	5.938							
+Rs	I	___	13	2	Top_center	2	5.593							
+Rs	I	___	13	2	Top_center	3	5.001							
+Rs	I	___	13	2	Top_center	4	5.172							
+Rs	I	___	13	2	Top_center	5	5.464							
+Rs	I	___	13	3	Top_right	1	5.509							
+Rs	I	___	13	3	Top_right	2	5.679							
+Rs	I	___	13	3	Top_right	3	5.339							
+Rs	I	___	13	3	Top_right	4	5.255							
+Rs	I	___	13	3	Top_right	5	5.424							
+Rs	I	___	13	4	Mid_left	1	3.899							
+Rs	I	___	13	4	Mid_left	2	3.817							
+Rs	I	___	13	4	Mid_left	3	3.051							
+Rs	I	___	13	4	Mid_left	4	3.817							
+Rs	I	___	13	4	Mid_left	5	3.869							
+Rs	I	___	13	5	Mid_center	1								
+Rs	I	___	13	5	Mid_center	2								
+Rs	I	___	13	5	Mid_center	3								
+Rs	I	___	13	5	Mid_center	4								
+Rs	I	___	13	5	Mid_center	5								
+Rs	I	___	13	6	Mid_right	1	4.408							
+Rs	I	___	13	6	Mid_right	2	4.576							
+Rs	I	___	13	6	Mid_right	3	4.576							
+Rs	I	___	13	6	Mid_right	4	4.579							
+Rs	I	___	13	6	Mid_right	5	4.331							
+Rs	I	___	13	7	Bottom_left	1								
+Rs	I	___	13	7	Bottom_left	2								
+Rs	I	___	13	7	Bottom_left	3								
+Rs	I	___	13	7	Bottom_left	4								
+Rs	I	___	13	7	Bottom_left	5								
+Rs	I	___	13	8	Bottom_center	1	4.069							
+Rs	I	___	13	8	Bottom_center	2	4.323							
+Rs	I	___	13	8	Bottom_center	3	3.983							
+Rs	I	___	13	8	Bottom_center	4	3.729							
+Rs	I	___	13	8	Bottom_center	5	4.170							
+Rs	I	___	13	9	Bottom_right	1	5.678							
+Rs	I	___	13	9	Bottom_right	2	5.768							
+Rs	I	___	13	9	Bottom_right	3	4.842							
+Rs	I	___	13	9	Bottom_right	4	4.747							
+Rs	I	___	13	9	Bottom_right	5	4.783							
+Rs	I	___	14	1	Top_left	1	5.001					106	-90.971	5.001
+Rs	I	___	14	1	Top_left	2	5.085					167	0.000	5.085
+Rs	I	___	14	1	Top_left	3	4.831					190	-90.000	4.831
+Rs	I	___	14	1	Top_left	4	4.831					251.667	0.000	4.831
+Rs	I	___	14	1	Top_left	5	4.869					121.000	-58.523	4.869
+Rs	I	___	14	2	Top_center	1	6.695					239.865	-89.275	6.695
+Rs	I	___	14	2	Top_center	2	6.443					142.000	1.507	6.443
+Rs	I	___	14	2	Top_center	3	6.104					147.000	-88.409	6.104
+Rs	I	___	14	2	Top_center	4	6.187					153.667	0.785	6.187
+Rs	I	___	14	2	Top_center	5	6.443					249.515	-63.435	6.443
+Rs	I	___	14	3	Top_right	1	5.975					95.000	-89.187	5.975
+Rs	I	___	14	3	Top_right	2	5.806					97.667	0.836	5.806
+Rs	I	___	14	3	Top_right	3	5.850					157.333	-91.660	5.850
+Rs	I	___	14	3	Top_right	4	5.424					157.000	-0.448	5.424
+Rs	I	___	14	3	Top_right	5	5.744					171.000	-68.356	5.744
+Rs	I	___	14	4	Mid_left	1	3.687					138.000	-89.341	3.687
+Rs	I	___	14	4	Mid_left	2	3.519					180.500	2.070	3.519
+Rs	I	___	14	4	Mid_left	3	3.432					143.833	-89.293	3.432
+Rs	I	___	14	4	Mid_left	4	3.559					162.667	180.000	3.559
+Rs	I	___	14	4	Mid_left	5	3.886					119.833	-62.038	3.886
+Rs	I	___	14	5	Mid_center	1						147.000	-88.877	4.323
+Rs	I	___	14	5	Mid_center	2						132.333	2.010	4.833
+Rs	I	___	14	5	Mid_center	3						145.667	-86.424	4.076
+Rs	I	___	14	5	Mid_center	4						149.667	-47.420	4.258
+Rs	I	___	14	5	Mid_center	5						104.667	-66.371	4.440
+Rs	I	___	14	6	Mid_right	1	4.323					149.667	-89.265	3.305
+Rs	I	___	14	6	Mid_right	2	4.833					130.583	0.666	3.644
+Rs	I	___	14	6	Mid_right	3	4.076					157.667	-90.000	3.432
+Rs	I	___	14	6	Mid_right	4	4.258					130.500	2.386	3.053
+Rs	I	___	14	6	Mid_right	5	4.440					136.167	-62.176	3.450
+Rs	I	___	14	7	Bottom_left	1						191.699	-90.924	5.255
+Rs	I	___	14	7	Bottom_left	2						145.333	0.909	5.340
+Rs	I	___	14	7	Bottom_left	3						234.251	-85.314	5.187
+Rs	I	___	14	7	Bottom_left	4						163.667	0.000	4.831
+Rs	I	___	14	7	Bottom_left	5						175.333	-66.801	5.163
+Rs	I	___	14	8	Bottom_center	1	3.305							
+Rs	I	___	14	8	Bottom_center	2	3.644							
+Rs	I	___	14	8	Bottom_center	3	3.432							
+Rs	I	___	14	8	Bottom_center	4	3.053							
+Rs	I	___	14	8	Bottom_center	5	3.450							
+Rs	I	___	14	9	Bottom_right	1	5.255							
+Rs	I	___	14	9	Bottom_right	2	5.340							
+Rs	I	___	14	9	Bottom_right	3	5.187							
+Rs	I	___	14	9	Bottom_right	4	4.831							
+Rs	I	___	14	9	Bottom_right	5	5.163							
+Rs	I	___	15	1	Top_left	1	4.661							
+Rs	I	___	15	1	Top_left	2	4.747							
+Rs	I	___	15	1	Top_left	3	4.664							
+Rs	I	___	15	1	Top_left	4	3.983							
+Rs	I	___	15	1	Top_left	5	4.408							
+Rs	I	___	15	2	Top_center	1	5.933							
+Rs	I	___	15	2	Top_center	2	5.339							
+Rs	I	___	15	2	Top_center	3	5.340							
+Rs	I	___	15	2	Top_center	4	5.511							
+Rs	I	___	15	2	Top_center	5	5.508							
+Rs	I	___	15	3	Top_right	1	5.342							
+Rs	I	___	15	3	Top_right	2	5.596							
+Rs	I	___	15	3	Top_right	3	4.833							
+Rs	I	___	15	3	Top_right	4	4.746							
+Rs	I	___	15	3	Top_right	5	4.709							
+Rs	I	___	15	4	Mid_left	1	3.391							
+Rs	I	___	15	4	Mid_left	2	3.476							
+Rs	I	___	15	4	Mid_left	3	3.306							
+Rs	I	___	15	4	Mid_left	4	3.305							
+Rs	I	___	15	4	Mid_left	5	3.564							
+Rs	I	___	15	5	Mid_center	1								
+Rs	I	___	15	5	Mid_center	2								
+Rs	I	___	15	5	Mid_center	3								
+Rs	I	___	15	5	Mid_center	4								
+Rs	I	___	15	5	Mid_center	5								
+Rs	I	___	15	6	Mid_right	1	3.475							
+Rs	I	___	15	6	Mid_right	2	3.475							
+Rs	I	___	15	6	Mid_right	3	3.814							
+Rs	I	___	15	6	Mid_right	4	3.494							
+Rs	I	___	15	6	Mid_right	5	3.377							
+Rs	I	___	15	7	Bottom_left	1								
+Rs	I	___	15	7	Bottom_left	2								
+Rs	I	___	15	7	Bottom_left	3								
+Rs	I	___	15	7	Bottom_left	4								
+Rs	I	___	15	7	Bottom_left	5								
+Rs	I	___	15	8	Bottom_center	1	3.560							
+Rs	I	___	15	8	Bottom_center	2	3.645							
+Rs	I	___	15	8	Bottom_center	3	3.653							
+Rs	I	___	15	8	Bottom_center	4	3.476							
+Rs	I	___	15	8	Bottom_center	5	3.730							
+Rs	I	___	15	9	Bottom_right	1	4.916							
+Rs	I	___	15	9	Bottom_right	2	4.916							
+Rs	I	___	15	9	Bottom_right	3	4.831							
+Rs	I	___	15	9	Bottom_right	4	4.776							
+Rs	I	___	15	9	Bottom_right	5	4.988							
+Rs	I	Fe	1	1	Top_left	1	3.306							
+Rs	I	Fe	1	1	Top_left	2	3.051							
+Rs	I	Fe	1	1	Top_left	3	2.542							
+Rs	I	Fe	1	1	Top_left	4	2.544							
+Rs	I	Fe	1	1	Top_left	5	2.849							
+Rs	I	Fe	1	2	Top_center	1	4.492							
+Rs	I	Fe	1	2	Top_center	2	4.322							
+Rs	I	Fe	1	2	Top_center	3	3.817							
+Rs	I	Fe	1	2	Top_center	4	4.237							
+Rs	I	Fe	1	2	Top_center	5	4.019							
+Rs	I	Fe	1	3	Top_right	1	2.966							
+Rs	I	Fe	1	3	Top_right	2	3.056							
+Rs	I	Fe	1	3	Top_right	3	2.798							
+Rs	I	Fe	1	3	Top_right	4	2.960							
+Rs	I	Fe	1	3	Top_right	5	3.137							
+Rs	I	Fe	1	4	Mid_left	1	2.544							
+Rs	I	Fe	1	4	Mid_left	2	2.798							
+Rs	I	Fe	1	4	Mid_left	3	2.374							
+Rs	I	Fe	1	4	Mid_left	4	2.802							
+Rs	I	Fe	1	4	Mid_left	5	2.704							
+Rs	I	Fe	1	5	Mid_center	1								
+Rs	I	Fe	1	5	Mid_center	2								
+Rs	I	Fe	1	5	Mid_center	3								
+Rs	I	Fe	1	5	Mid_center	4								
+Rs	I	Fe	1	5	Mid_center	5								
+Rs	I	Fe	1	6	Mid_right	1	3.479							
+Rs	I	Fe	1	6	Mid_right	2	3.391							
+Rs	I	Fe	1	6	Mid_right	3	3.407							
+Rs	I	Fe	1	6	Mid_right	4	3.416							
+Rs	I	Fe	1	6	Mid_right	5	3.457							
+Rs	I	Fe	1	7	Bottom_left	1								
+Rs	I	Fe	1	7	Bottom_left	2								
+Rs	I	Fe	1	7	Bottom_left	3								
+Rs	I	Fe	1	7	Bottom_left	4								
+Rs	I	Fe	1	7	Bottom_left	5								
+Rs	I	Fe	1	8	Bottom_center	1	3.051							
+Rs	I	Fe	1	8	Bottom_center	2	3.136							
+Rs	I	Fe	1	8	Bottom_center	3	2.971							
+Rs	I	Fe	1	8	Bottom_center	4	2.966							
+Rs	I	Fe	1	8	Bottom_center	5	2.919							
+Rs	I	Fe	1	9	Bottom_right	1	2.798							
+Rs	I	Fe	1	9	Bottom_right	2	2.798							
+Rs	I	Fe	1	9	Bottom_right	3	2.798							
+Rs	I	Fe	1	9	Bottom_right	4	2.587							
+Rs	I	Fe	1	9	Bottom_right	5	2.713							
+Rs	I	Fe	2	1	Top_left	1	3.575							
+Rs	I	Fe	2	1	Top_left	2	3.815							
+Rs	I	Fe	2	1	Top_left	3	3.315							
+Rs	I	Fe	2	1	Top_left	4	3.136							
+Rs	I	Fe	2	1	Top_left	5	3.154							
+Rs	I	Fe	2	2	Top_center	1	4.251							
+Rs	I	Fe	2	2	Top_center	2	4.408							
+Rs	I	Fe	2	2	Top_center	3	4.156							
+Rs	I	Fe	2	2	Top_center	4	4.410							
+Rs	I	Fe	2	2	Top_center	5	3.950							
+Rs	I	Fe	2	3	Top_right	1	3.140							
+Rs	I	Fe	2	3	Top_right	2	3.220							
+Rs	I	Fe	2	3	Top_right	3	3.322							
+Rs	I	Fe	2	3	Top_right	4	3.324							
+Rs	I	Fe	2	3	Top_right	5	3.296							
+Rs	I	Fe	2	4	Mid_left	1	2.733							
+Rs	I	Fe	2	4	Mid_left	2	2.966							
+Rs	I	Fe	2	4	Mid_left	3	2.817							
+Rs	I	Fe	2	4	Mid_left	4	2.788							
+Rs	I	Fe	2	4	Mid_left	5	2.822							
+Rs	I	Fe	2	5	Mid_center	1								
+Rs	I	Fe	2	5	Mid_center	2								
+Rs	I	Fe	2	5	Mid_center	3								
+Rs	I	Fe	2	5	Mid_center	4								
+Rs	I	Fe	2	5	Mid_center	5								
+Rs	I	Fe	2	6	Mid_right	1	3.476							
+Rs	I	Fe	2	6	Mid_right	2	3.653							
+Rs	I	Fe	2	6	Mid_right	3	2.966							
+Rs	I	Fe	2	6	Mid_right	4	3.429							
+Rs	I	Fe	2	6	Mid_right	5	3.391							
+Rs	I	Fe	2	7	Bottom_left	1								
+Rs	I	Fe	2	7	Bottom_left	2								
+Rs	I	Fe	2	7	Bottom_left	3								
+Rs	I	Fe	2	7	Bottom_left	4								
+Rs	I	Fe	2	7	Bottom_left	5								
+Rs	I	Fe	2	8	Bottom_center	1	2.883							
+Rs	I	Fe	2	8	Bottom_center	2	2.883							
+Rs	I	Fe	2	8	Bottom_center	3	2.713							
+Rs	I	Fe	2	8	Bottom_center	4	2.713							
+Rs	I	Fe	2	8	Bottom_center	5	2.729							
+Rs	I	Fe	2	9	Bottom_right	1	3.140							
+Rs	I	Fe	2	9	Bottom_right	2	3.309							
+Rs	I	Fe	2	9	Bottom_right	3	2.798							
+Rs	I	Fe	2	9	Bottom_right	4	2.767							
+Rs	I	Fe	2	9	Bottom_right	5	3.153							
+Rs	I	Fe	3	1	Top_left	1	3.070							
+Rs	I	Fe	3	1	Top_left	2	3.081							
+Rs	I	Fe	3	1	Top_left	3	2.294							
+Rs	I	Fe	3	1	Top_left	4	2.583							
+Rs	I	Fe	3	1	Top_left	5	2.802							
+Rs	I	Fe	3	2	Top_center	1	4.279							
+Rs	I	Fe	3	2	Top_center	2	4.099							
+Rs	I	Fe	3	2	Top_center	3	4.099							
+Rs	I	Fe	3	2	Top_center	4	4.160							
+Rs	I	Fe	3	2	Top_center	5	4.215							
+Rs	I	Fe	3	3	Top_right	1	3.070							
+Rs	I	Fe	3	3	Top_right	2	3.140							
+Rs	I	Fe	3	3	Top_right	3	2.717							
+Rs	I	Fe	3	3	Top_right	4	3.136							
+Rs	I	Fe	3	3	Top_right	5	3.177							
+Rs	I	Fe	3	4	Mid_left	1	2.555							
+Rs	I	Fe	3	4	Mid_left	2	2.628							
+Rs	I	Fe	3	4	Mid_left	3	2.555							
+Rs	I	Fe	3	4	Mid_left	4	2.427							
+Rs	I	Fe	3	4	Mid_left	5	2.577							
+Rs	I	Fe	3	5	Mid_center	1								
+Rs	I	Fe	3	5	Mid_center	2								
+Rs	I	Fe	3	5	Mid_center	3								
+Rs	I	Fe	3	5	Mid_center	4								
+Rs	I	Fe	3	5	Mid_center	5								
+Rs	I	Fe	3	6	Mid_right	1	2.881							
+Rs	I	Fe	3	6	Mid_right	2	2.971							
+Rs	I	Fe	3	6	Mid_right	3	2.544							
+Rs	I	Fe	3	6	Mid_right	4	2.611							
+Rs	I	Fe	3	6	Mid_right	5	2.901							
+Rs	I	Fe	3	7	Bottom_left	1								
+Rs	I	Fe	3	7	Bottom_left	2								
+Rs	I	Fe	3	7	Bottom_left	3								
+Rs	I	Fe	3	7	Bottom_left	4								
+Rs	I	Fe	3	7	Bottom_left	5								
+Rs	I	Fe	3	8	Bottom_center	1	2.633							
+Rs	I	Fe	3	8	Bottom_center	2	2.542							
+Rs	I	Fe	3	8	Bottom_center	3	2.492							
+Rs	I	Fe	3	8	Bottom_center	4	2.542							
+Rs	I	Fe	3	8	Bottom_center	5	2.504							
+Rs	I	Fe	3	9	Bottom_right	1	2.886							
+Rs	I	Fe	3	9	Bottom_right	2	2.967							
+Rs	I	Fe	3	9	Bottom_right	3	2.966							
+Rs	I	Fe	3	9	Bottom_right	4	2.759							
+Rs	I	Fe	3	9	Bottom_right	5	2.733							

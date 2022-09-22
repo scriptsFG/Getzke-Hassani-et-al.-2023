@@ -1,0 +1,451 @@
+Lawn_bacterium	Mutant_setup	Iron	Plate	Colony_pos	Colony	Measurement	
+Rs	III	___	1	1	Top_left	1	0
+Rs	III	___	1	1	Top_left	2	0
+Rs	III	___	1	1	Top_left	3	0
+Rs	III	___	1	1	Top_left	4	0
+Rs	III	___	1	1	Top_left	5	0
+Rs	III	___	1	2	Top_center	1	0
+Rs	III	___	1	2	Top_center	2	0
+Rs	III	___	1	2	Top_center	3	0
+Rs	III	___	1	2	Top_center	4	0
+Rs	III	___	1	2	Top_center	5	0
+Rs	III	___	1	3	Top_right	1	5.339
+Rs	III	___	1	3	Top_right	2	5.430
+Rs	III	___	1	3	Top_right	3	5.085
+Rs	III	___	1	3	Top_right	4	5.199
+Rs	III	___	1	3	Top_right	5	5.203
+Rs	III	___	1	4	Mid_left	1	0
+Rs	III	___	1	4	Mid_left	2	0
+Rs	III	___	1	4	Mid_left	3	0
+Rs	III	___	1	4	Mid_left	4	0
+Rs	III	___	1	4	Mid_left	5	0
+Rs	III	___	1	5	Mid_center	1	4.749
+Rs	III	___	1	5	Mid_center	2	4.662
+Rs	III	___	1	5	Mid_center	3	4.661
+Rs	III	___	1	5	Mid_center	4	4.747
+Rs	III	___	1	5	Mid_center	5	4.520
+Rs	III	___	1	6	Mid_right	1	0
+Rs	III	___	1	6	Mid_right	2	0
+Rs	III	___	1	6	Mid_right	3	0
+Rs	III	___	1	6	Mid_right	4	0
+Rs	III	___	1	6	Mid_right	5	0
+Rs	III	___	1	7	Bottom_left	1	4.068
+Rs	III	___	1	7	Bottom_left	2	4.245
+Rs	III	___	1	7	Bottom_left	3	4.082
+Rs	III	___	1	7	Bottom_left	4	3.987
+Rs	III	___	1	7	Bottom_left	5	4.169
+Rs	III	___	1	8	Bottom_center	1	0
+Rs	III	___	1	8	Bottom_center	2	0
+Rs	III	___	1	8	Bottom_center	3	0
+Rs	III	___	1	8	Bottom_center	4	0
+Rs	III	___	1	8	Bottom_center	5	0
+Rs	III	___	1	9	Bottom_right	1	0
+Rs	III	___	1	9	Bottom_right	2	0
+Rs	III	___	1	9	Bottom_right	3	0
+Rs	III	___	1	9	Bottom_right	4	0
+Rs	III	___	1	9	Bottom_right	5	0
+Rs	III	___	2	1	Top_left	1	0
+Rs	III	___	2	1	Top_left	2	0
+Rs	III	___	2	1	Top_left	3	0
+Rs	III	___	2	1	Top_left	4	0
+Rs	III	___	2	1	Top_left	5	0
+Rs	III	___	2	2	Top_center	1	0
+Rs	III	___	2	2	Top_center	2	0
+Rs	III	___	2	2	Top_center	3	0
+Rs	III	___	2	2	Top_center	4	0
+Rs	III	___	2	2	Top_center	5	0
+Rs	III	___	2	3	Top_right	1	4.673
+Rs	III	___	2	3	Top_right	2	4.577
+Rs	III	___	2	3	Top_right	3	4.673
+Rs	III	___	2	3	Top_right	4	4.576
+Rs	III	___	2	3	Top_right	5	4.679
+Rs	III	___	2	4	Mid_left	1	0
+Rs	III	___	2	4	Mid_left	2	0
+Rs	III	___	2	4	Mid_left	3	0
+Rs	III	___	2	4	Mid_left	4	0
+Rs	III	___	2	4	Mid_left	5	0
+Rs	III	___	2	5	Mid_center	1	4.673
+Rs	III	___	2	5	Mid_center	2	4.407
+Rs	III	___	2	5	Mid_center	3	4.499
+Rs	III	___	2	5	Mid_center	4	4.831
+Rs	III	___	2	5	Mid_center	5	4.594
+Rs	III	___	2	6	Mid_right	1	0
+Rs	III	___	2	6	Mid_right	2	0
+Rs	III	___	2	6	Mid_right	3	0
+Rs	III	___	2	6	Mid_right	4	0
+Rs	III	___	2	6	Mid_right	5	0
+Rs	III	___	2	7	Bottom_left	1	5.001
+Rs	III	___	2	7	Bottom_left	2	4.831
+Rs	III	___	2	7	Bottom_left	3	4.916
+Rs	III	___	2	7	Bottom_left	4	5.170
+Rs	III	___	2	7	Bottom_left	5	5.161
+Rs	III	___	2	8	Bottom_center	1	0
+Rs	III	___	2	8	Bottom_center	2	0
+Rs	III	___	2	8	Bottom_center	3	0
+Rs	III	___	2	8	Bottom_center	4	0
+Rs	III	___	2	8	Bottom_center	5	0
+Rs	III	___	2	9	Bottom_right	1	0
+Rs	III	___	2	9	Bottom_right	2	0
+Rs	III	___	2	9	Bottom_right	3	0
+Rs	III	___	2	9	Bottom_right	4	0
+Rs	III	___	2	9	Bottom_right	5	0
+Rs	III	___	3	1	Top_left	1	0
+Rs	III	___	3	1	Top_left	2	0
+Rs	III	___	3	1	Top_left	3	0
+Rs	III	___	3	1	Top_left	4	0
+Rs	III	___	3	1	Top_left	5	0
+Rs	III	___	3	2	Top_center	1	0
+Rs	III	___	3	2	Top_center	2	0
+Rs	III	___	3	2	Top_center	3	0
+Rs	III	___	3	2	Top_center	4	0
+Rs	III	___	3	2	Top_center	5	0
+Rs	III	___	3	3	Top_right	1	5.596
+Rs	III	___	3	3	Top_right	2	5.679
+Rs	III	___	3	3	Top_right	3	5.257
+Rs	III	___	3	3	Top_right	4	4.916
+Rs	III	___	3	3	Top_right	5	5.005
+Rs	III	___	3	4	Mid_left	1	0
+Rs	III	___	3	4	Mid_left	2	0
+Rs	III	___	3	4	Mid_left	3	0
+Rs	III	___	3	4	Mid_left	4	0
+Rs	III	___	3	4	Mid_left	5	0
+Rs	III	___	3	5	Mid_center	1	4.746
+Rs	III	___	3	5	Mid_center	2	4.916
+Rs	III	___	3	5	Mid_center	3	4.410
+Rs	III	___	3	5	Mid_center	4	4.747
+Rs	III	___	3	5	Mid_center	5	4.363
+Rs	III	___	3	6	Mid_right	1	0
+Rs	III	___	3	6	Mid_right	2	0
+Rs	III	___	3	6	Mid_right	3	0
+Rs	III	___	3	6	Mid_right	4	0
+Rs	III	___	3	6	Mid_right	5	0
+Rs	III	___	3	7	Bottom_left	1	4.746
+Rs	III	___	3	7	Bottom_left	2	4.576
+Rs	III	___	3	7	Bottom_left	3	4.749
+Rs	III	___	3	7	Bottom_left	4	4.576
+Rs	III	___	3	7	Bottom_left	5	4.410
+Rs	III	___	3	8	Bottom_center	1	0
+Rs	III	___	3	8	Bottom_center	2	0
+Rs	III	___	3	8	Bottom_center	3	0
+Rs	III	___	3	8	Bottom_center	4	0
+Rs	III	___	3	8	Bottom_center	5	0
+Rs	III	___	3	9	Bottom_right	1	0
+Rs	III	___	3	9	Bottom_right	2	0
+Rs	III	___	3	9	Bottom_right	3	0
+Rs	III	___	3	9	Bottom_right	4	0
+Rs	III	___	3	9	Bottom_right	5	0
+Rs	III	___	4	1	Top_left	1	0
+Rs	III	___	4	1	Top_left	2	0
+Rs	III	___	4	1	Top_left	3	0
+Rs	III	___	4	1	Top_left	4	0
+Rs	III	___	4	1	Top_left	5	0
+Rs	III	___	4	2	Top_center	1	0
+Rs	III	___	4	2	Top_center	2	0
+Rs	III	___	4	2	Top_center	3	0
+Rs	III	___	4	2	Top_center	4	0
+Rs	III	___	4	2	Top_center	5	0
+Rs	III	___	4	3	Top_right	1	5.679
+Rs	III	___	4	3	Top_right	2	5.594
+Rs	III	___	4	3	Top_right	3	5.339
+Rs	III	___	4	3	Top_right	4	5.169
+Rs	III	___	4	3	Top_right	5	5.499
+Rs	III	___	4	4	Mid_left	1	0
+Rs	III	___	4	4	Mid_left	2	0
+Rs	III	___	4	4	Mid_left	3	0
+Rs	III	___	4	4	Mid_left	4	0
+Rs	III	___	4	4	Mid_left	5	0
+Rs	III	___	4	5	Mid_center	1	4.747
+Rs	III	___	4	5	Mid_center	2	4.579
+Rs	III	___	4	5	Mid_center	3	4.407
+Rs	III	___	4	5	Mid_center	4	4.156
+Rs	III	___	4	5	Mid_center	5	4.664
+Rs	III	___	4	6	Mid_right	1	0
+Rs	III	___	4	6	Mid_right	2	0
+Rs	III	___	4	6	Mid_right	3	0
+Rs	III	___	4	6	Mid_right	4	0
+Rs	III	___	4	6	Mid_right	5	0
+Rs	III	___	4	7	Bottom_left	1	5.174
+Rs	III	___	4	7	Bottom_left	2	5.000
+Rs	III	___	4	7	Bottom_left	3	5.000
+Rs	III	___	4	7	Bottom_left	4	5.382
+Rs	III	___	4	7	Bottom_left	5	5.289
+Rs	III	___	4	8	Bottom_center	1	0
+Rs	III	___	4	8	Bottom_center	2	0
+Rs	III	___	4	8	Bottom_center	3	0
+Rs	III	___	4	8	Bottom_center	4	0
+Rs	III	___	4	8	Bottom_center	5	0
+Rs	III	___	4	9	Bottom_right	1	0
+Rs	III	___	4	9	Bottom_right	2	0
+Rs	III	___	4	9	Bottom_right	3	0
+Rs	III	___	4	9	Bottom_right	4	0
+Rs	III	___	4	9	Bottom_right	5	0
+Rs	III	___	5	1	Top_left	1	0
+Rs	III	___	5	1	Top_left	2	0
+Rs	III	___	5	1	Top_left	3	0
+Rs	III	___	5	1	Top_left	4	0
+Rs	III	___	5	1	Top_left	5	0
+Rs	III	___	5	2	Top_center	1	0
+Rs	III	___	5	2	Top_center	2	0
+Rs	III	___	5	2	Top_center	3	0
+Rs	III	___	5	2	Top_center	4	0
+Rs	III	___	5	2	Top_center	5	0
+Rs	III	___	5	3	Top_right	1	5.085
+Rs	III	___	5	3	Top_right	2	5.257
+Rs	III	___	5	3	Top_right	3	4.414
+Rs	III	___	5	3	Top_right	4	4.408
+Rs	III	___	5	3	Top_right	5	4.737
+Rs	III	___	5	4	Mid_left	1	0
+Rs	III	___	5	4	Mid_left	2	0
+Rs	III	___	5	4	Mid_left	3	0
+Rs	III	___	5	4	Mid_left	4	0
+Rs	III	___	5	4	Mid_left	5	0
+Rs	III	___	5	5	Mid_center	1	4.691
+Rs	III	___	5	5	Mid_center	2	4.633
+Rs	III	___	5	5	Mid_center	3	4.379
+Rs	III	___	5	5	Mid_center	4	4.577
+Rs	III	___	5	5	Mid_center	5	4.579
+Rs	III	___	5	6	Mid_right	1	0
+Rs	III	___	5	6	Mid_right	2	0
+Rs	III	___	5	6	Mid_right	3	0
+Rs	III	___	5	6	Mid_right	4	0
+Rs	III	___	5	6	Mid_right	5	0
+Rs	III	___	5	7	Bottom_left	1	4.492
+Rs	III	___	5	7	Bottom_left	2	4.451
+Rs	III	___	5	7	Bottom_left	3	4.407
+Rs	III	___	5	7	Bottom_left	4	4.492
+Rs	III	___	5	7	Bottom_left	5	4.586
+Rs	III	___	5	8	Bottom_center	1	0
+Rs	III	___	5	8	Bottom_center	2	0
+Rs	III	___	5	8	Bottom_center	3	0
+Rs	III	___	5	8	Bottom_center	4	0
+Rs	III	___	5	8	Bottom_center	5	0
+Rs	III	___	5	9	Bottom_right	1	0
+Rs	III	___	5	9	Bottom_right	2	0
+Rs	III	___	5	9	Bottom_right	3	0
+Rs	III	___	5	9	Bottom_right	4	0
+Rs	III	___	5	9	Bottom_right	5	0
+Rs	III	___	6	1	Top_left	1	0
+Rs	III	___	6	1	Top_left	2	0
+Rs	III	___	6	1	Top_left	3	0
+Rs	III	___	6	1	Top_left	4	0
+Rs	III	___	6	1	Top_left	5	0
+Rs	III	___	6	2	Top_center	1	0
+Rs	III	___	6	2	Top_center	2	0
+Rs	III	___	6	2	Top_center	3	0
+Rs	III	___	6	2	Top_center	4	0
+Rs	III	___	6	2	Top_center	5	0
+Rs	III	___	6	3	Top_right	1	5.511
+Rs	III	___	6	3	Top_right	2	5.339
+Rs	III	___	6	3	Top_right	3	5.279
+Rs	III	___	6	3	Top_right	4	5.350
+Rs	III	___	6	3	Top_right	5	5.011
+Rs	III	___	6	4	Mid_left	1	0
+Rs	III	___	6	4	Mid_left	2	0
+Rs	III	___	6	4	Mid_left	3	0
+Rs	III	___	6	4	Mid_left	4	0
+Rs	III	___	6	4	Mid_left	5	0
+Rs	III	___	6	5	Mid_center	1	6.273
+Rs	III	___	6	5	Mid_center	2	6.275
+Rs	III	___	6	5	Mid_center	3	6.315
+Rs	III	___	6	5	Mid_center	4	6.356
+Rs	III	___	6	5	Mid_center	5	6.343
+Rs	III	___	6	6	Mid_right	1	0
+Rs	III	___	6	6	Mid_right	2	0
+Rs	III	___	6	6	Mid_right	3	0
+Rs	III	___	6	6	Mid_right	4	0
+Rs	III	___	6	6	Mid_right	5	0
+Rs	III	___	6	7	Bottom_left	1	4.835
+Rs	III	___	6	7	Bottom_left	2	4.875
+Rs	III	___	6	7	Bottom_left	3	4.619
+Rs	III	___	6	7	Bottom_left	4	4.492
+Rs	III	___	6	7	Bottom_left	5	4.738
+Rs	III	___	6	8	Bottom_center	1	0
+Rs	III	___	6	8	Bottom_center	2	0
+Rs	III	___	6	8	Bottom_center	3	0
+Rs	III	___	6	8	Bottom_center	4	0
+Rs	III	___	6	8	Bottom_center	5	0
+Rs	III	___	6	9	Bottom_right	1	0
+Rs	III	___	6	9	Bottom_right	2	0
+Rs	III	___	6	9	Bottom_right	3	0
+Rs	III	___	6	9	Bottom_right	4	0
+Rs	III	___	6	9	Bottom_right	5	0
+Rs	III	___	7	1	Top_left	1	0
+Rs	III	___	7	1	Top_left	2	0
+Rs	III	___	7	1	Top_left	3	0
+Rs	III	___	7	1	Top_left	4	0
+Rs	III	___	7	1	Top_left	5	0
+Rs	III	___	7	3	Top_right	1	5.511
+Rs	III	___	7	3	Top_right	2	5.508
+Rs	III	___	7	3	Top_right	3	5.085
+Rs	III	___	7	3	Top_right	4	5.499
+Rs	III	___	7	3	Top_right	5	5.257
+Rs	III	___	7	5	Mid_center	1	5.085
+Rs	III	___	7	5	Mid_center	2	5.091
+Rs	III	___	7	5	Mid_center	3	4.577
+Rs	III	___	7	5	Mid_center	4	5.170
+Rs	III	___	7	5	Mid_center	5	5.174
+Rs	III	___	7	6	Mid_right	1	0
+Rs	III	___	7	6	Mid_right	2	0
+Rs	III	___	7	6	Mid_right	3	0
+Rs	III	___	7	6	Mid_right	4	0
+Rs	III	___	7	6	Mid_right	5	0
+Rs	III	___	7	7	Bottom_left	1	5.599
+Rs	III	___	7	7	Bottom_left	2	5.773
+Rs	III	___	7	7	Bottom_left	3	5.768
+Rs	III	___	7	7	Bottom_left	4	5.340
+Rs	III	___	7	7	Bottom_left	5	5.319
+Rs	III	___	7	8	Bottom_center	1	0
+Rs	III	___	7	8	Bottom_center	2	0
+Rs	III	___	7	8	Bottom_center	3	0
+Rs	III	___	7	8	Bottom_center	4	0
+Rs	III	___	7	8	Bottom_center	5	0
+Rs	III	Fe	1	1	Top_left	1	0
+Rs	III	Fe	1	1	Top_left	2	0
+Rs	III	Fe	1	1	Top_left	3	0
+Rs	III	Fe	1	1	Top_left	4	0
+Rs	III	Fe	1	1	Top_left	5	0
+Rs	III	Fe	1	3	Top_right	1	0
+Rs	III	Fe	1	3	Top_right	2	0
+Rs	III	Fe	1	3	Top_right	3	0
+Rs	III	Fe	1	3	Top_right	4	0
+Rs	III	Fe	1	3	Top_right	5	0
+Rs	III	Fe	1	5	Mid_center	1	0
+Rs	III	Fe	1	5	Mid_center	2	0
+Rs	III	Fe	1	5	Mid_center	3	0
+Rs	III	Fe	1	5	Mid_center	4	0
+Rs	III	Fe	1	5	Mid_center	5	0
+Rs	III	Fe	1	6	Mid_right	1	0
+Rs	III	Fe	1	6	Mid_right	2	0
+Rs	III	Fe	1	6	Mid_right	3	0
+Rs	III	Fe	1	6	Mid_right	4	0
+Rs	III	Fe	1	6	Mid_right	5	0
+Rs	III	Fe	1	7	Bottom_left	1	0
+Rs	III	Fe	1	7	Bottom_left	2	0
+Rs	III	Fe	1	7	Bottom_left	3	0
+Rs	III	Fe	1	7	Bottom_left	4	0
+Rs	III	Fe	1	7	Bottom_left	5	0
+Rs	III	Fe	1	8	Bottom_center	1	0
+Rs	III	Fe	1	8	Bottom_center	2	0
+Rs	III	Fe	1	8	Bottom_center	3	0
+Rs	III	Fe	1	8	Bottom_center	4	0
+Rs	III	Fe	1	8	Bottom_center	5	0
+Rs	III	Fe	2	1	Top_left	1	0
+Rs	III	Fe	2	1	Top_left	2	0
+Rs	III	Fe	2	1	Top_left	3	0
+Rs	III	Fe	2	1	Top_left	4	0
+Rs	III	Fe	2	1	Top_left	5	0
+Rs	III	Fe	2	3	Top_right	1	0
+Rs	III	Fe	2	3	Top_right	2	0
+Rs	III	Fe	2	3	Top_right	3	0
+Rs	III	Fe	2	3	Top_right	4	0
+Rs	III	Fe	2	3	Top_right	5	0
+Rs	III	Fe	2	5	Mid_center	1	0
+Rs	III	Fe	2	5	Mid_center	2	0
+Rs	III	Fe	2	5	Mid_center	3	0
+Rs	III	Fe	2	5	Mid_center	4	0
+Rs	III	Fe	2	5	Mid_center	5	0
+Rs	III	Fe	2	6	Mid_right	1	0
+Rs	III	Fe	2	6	Mid_right	2	0
+Rs	III	Fe	2	6	Mid_right	3	0
+Rs	III	Fe	2	6	Mid_right	4	0
+Rs	III	Fe	2	6	Mid_right	5	0
+Rs	III	Fe	2	7	Bottom_left	1	0
+Rs	III	Fe	2	7	Bottom_left	2	0
+Rs	III	Fe	2	7	Bottom_left	3	0
+Rs	III	Fe	2	7	Bottom_left	4	0
+Rs	III	Fe	2	7	Bottom_left	5	0
+Rs	III	Fe	2	8	Bottom_center	1	0
+Rs	III	Fe	2	8	Bottom_center	2	0
+Rs	III	Fe	2	8	Bottom_center	3	0
+Rs	III	Fe	2	8	Bottom_center	4	0
+Rs	III	Fe	2	8	Bottom_center	5	0
+Rs	III	Fe	3	1	Top_left	1	0
+Rs	III	Fe	3	1	Top_left	2	0
+Rs	III	Fe	3	1	Top_left	3	0
+Rs	III	Fe	3	1	Top_left	4	0
+Rs	III	Fe	3	1	Top_left	5	0
+Rs	III	Fe	3	3	Top_right	1	0
+Rs	III	Fe	3	3	Top_right	2	0
+Rs	III	Fe	3	3	Top_right	3	0
+Rs	III	Fe	3	3	Top_right	4	0
+Rs	III	Fe	3	3	Top_right	5	0
+Rs	III	Fe	3	5	Mid_center	1	0
+Rs	III	Fe	3	5	Mid_center	2	0
+Rs	III	Fe	3	5	Mid_center	3	0
+Rs	III	Fe	3	5	Mid_center	4	0
+Rs	III	Fe	3	5	Mid_center	5	0
+Rs	III	Fe	3	6	Mid_right	1	0
+Rs	III	Fe	3	6	Mid_right	2	0
+Rs	III	Fe	3	6	Mid_right	3	0
+Rs	III	Fe	3	6	Mid_right	4	0
+Rs	III	Fe	3	6	Mid_right	5	0
+Rs	III	Fe	3	7	Bottom_left	1	0
+Rs	III	Fe	3	7	Bottom_left	2	0
+Rs	III	Fe	3	7	Bottom_left	3	0
+Rs	III	Fe	3	7	Bottom_left	4	0
+Rs	III	Fe	3	7	Bottom_left	5	0
+Rs	III	Fe	3	8	Bottom_center	1	0
+Rs	III	Fe	3	8	Bottom_center	2	0
+Rs	III	Fe	3	8	Bottom_center	3	0
+Rs	III	Fe	3	8	Bottom_center	4	0
+Rs	III	Fe	3	8	Bottom_center	5	0
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							

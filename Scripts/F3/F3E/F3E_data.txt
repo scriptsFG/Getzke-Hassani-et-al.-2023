@@ -1,0 +1,226 @@
+Lawn_bacterium	Plate	Colony	Measurement	Colony_diameter cm	Halo_diameter cm
+Rs4	1	Top_left	1	0.857	1.169
+Rs4	1	Top_left	2	0.901	1.146
+Rs4	1	Top_left	3	0.903	1.202
+Rs4	1	Top_left	4	0.903	1.164
+Rs4	1	Top_left	5	0.851	1.22
+Rs4	1	Top_center	1	0.865	1.419
+Rs4	1	Top_center	2	0.868	1.335
+Rs4	1	Top_center	3	0.869	1.399
+Rs4	1	Top_center	4	0.865	1.318
+Rs4	1	Top_center	5	0.863	1.381
+Rs4	1	Top_right	1	1.01	1.452
+Rs4	1	Top_right	2	0.968	1.538
+Rs4	1	Top_right	3	1.001	1.56
+Rs4	1	Top_right	4	1.003	1.485
+Rs4	1	Top_right	5	0.976	1.528
+Rs4	1	Mid_left	1	0.901	
+Rs4	1	Mid_left	2	0.847	
+Rs4	1	Mid_left	3	0.871	
+Rs4	1	Mid_left	4	0.882	
+Rs4	1	Mid_left	5	0.885	
+Rs4	1	Mid_center	1	0.897	1.478
+Rs4	1	Mid_center	2	0.864	1.477
+Rs4	1	Mid_center	3	0.905	1.545
+Rs4	1	Mid_center	4	0.91	1.454
+Rs4	1	Mid_center	5	0.91	1.452
+Rs4	1	Mid_right	1	0.914	1.454
+Rs4	1	Mid_right	2	0.901	1.477
+Rs4	1	Mid_right	3	0.903	1.441
+Rs4	1	Mid_right	4	0.906	1.452
+Rs4	1	Mid_right	5	0.884	1.379
+Rs4	1	Bottom_left	1	0.907	
+Rs4	1	Bottom_left	2	0.863	
+Rs4	1	Bottom_left	3	0.888	
+Rs4	1	Bottom_left	4	0.897	
+Rs4	1	Bottom_left	5	0.89	
+Rs4	1	Bottom_center	1	0.901	1.628
+Rs4	1	Bottom_center	2	0.874	1.602
+Rs4	1	Bottom_center	3	0.926	1.548
+Rs4	1	Bottom_center	4	0.926	1.599
+Rs4	1	Bottom_center	5	0.918	1.484
+Rs4	1	Bottom_right	1	0.884	1.503
+Rs4	1	Bottom_right	2	0.851	1.577
+Rs4	1	Bottom_right	3	0.907	1.546
+Rs4	1	Bottom_right	4	0.901	1.542
+Rs4	1	Bottom_right	5	0.896	1.527
+Rs4	2	Top_left	1	0.873	1.227
+Rs4	2	Top_left	2	0.868	1.252
+Rs4	2	Top_left	3	0.886	1.211
+Rs4	2	Top_left	4	0.898	1.237
+Rs4	2	Top_left	5	0.857	1.252
+Rs4	2	Top_center	1	0.935	1.427
+Rs4	2	Top_center	2	0.89	1.427
+Rs4	2	Top_center	3	0.942	1.438
+Rs4	2	Top_center	4	0.925	1.438
+Rs4	2	Top_center	5	0.946	1.403
+Rs4	2	Top_right	1	0.89	1.377
+Rs4	2	Top_right	2	0.857	1.327
+Rs4	2	Top_right	3	0.901	1.467
+Rs4	2	Top_right	4	0.916	1.404
+Rs4	2	Top_right	5	0.89	1.354
+Rs4	2	Mid_left	1	0.839	
+Rs4	2	Mid_left	2	0.818	
+Rs4	2	Mid_left	3	0.824	
+Rs4	2	Mid_left	4	0.836	
+Rs4	2	Mid_left	5	0.834	
+Rs4	2	Mid_center	1	0.94	1.502
+Rs4	2	Mid_center	2	0.876	1.502
+Rs4	2	Mid_center	3	0.913	1.444
+Rs4	2	Mid_center	4	0.918	1.537
+Rs4	2	Mid_center	5	0.94	1.453
+Rs4	2	Mid_right	1	0.956	1.328
+Rs4	2	Mid_right	2	0.914	1.353
+Rs4	2	Mid_right	3	0.949	1.451
+Rs4	2	Mid_right	4	0.95	1.413
+Rs4	2	Mid_right	5	0.943	1.33
+Rs4	2	Bottom_left	1	0.885	
+Rs4	2	Bottom_left	2	0.884	
+Rs4	2	Bottom_left	3	0.881	
+Rs4	2	Bottom_left	4	0.912	
+Rs4	2	Bottom_left	5	0.901	
+Rs4	2	Bottom_center	1	0.924	1.327
+Rs4	2	Bottom_center	2	0.868	1.352
+Rs4	2	Bottom_center	3	0.901	1.335
+Rs4	2	Bottom_center	4	0.915	1.427
+Rs4	2	Bottom_center	5	0.924	1.352
+Rs4	2	Bottom_right	1	0.957	1.353
+Rs4	2	Bottom_right	2	0.935	1.409
+Rs4	2	Bottom_right	3	0.986	1.357
+Rs4	2	Bottom_right	4	0.984	1.402
+Rs4	2	Bottom_right	5	0.968	1.47
+Rs4	3	Top_left	1	0.907	1.338
+Rs4	3	Top_left	2	0.857	1.319
+Rs4	3	Top_left	3	0.895	1.389
+Rs4	3	Top_left	4	0.925	1.379
+Rs4	3	Top_left	5	0.89	1.335
+Rs4	3	Top_center	1	0.985	1.486
+Rs4	3	Top_center	2	0.901	1.452
+Rs4	3	Top_center	3	0.951	1.44
+Rs4	3	Top_center	4	0.955	1.452
+Rs4	3	Top_center	5	0.957	1.485
+Rs4	3	Top_right	1	0.974	1.435
+Rs4	3	Top_right	2	0.957	1.446
+Rs4	3	Top_right	3	0.97	1.445
+Rs4	3	Top_right	4	0.983	1.458
+Rs4	3	Top_right	5	0.968	1.391
+Rs4	3	Mid_left	1	0.893	
+Rs4	3	Mid_left	2	0.834	
+Rs4	3	Mid_left	3	0.894	
+Rs4	3	Mid_left	4	0.867	
+Rs4	3	Mid_left	5	0.877	
+Rs4	3	Mid_center	1	0.964	1.535
+Rs4	3	Mid_center	2	0.889	1.503
+Rs4	3	Mid_center	3	0.956	1.463
+Rs4	3	Mid_center	4	0.956	1.528
+Rs4	3	Mid_center	5	0.96	1.502
+Rs4	3	Mid_right	1	0.918	1.436
+Rs4	3	Mid_right	2	0.889	1.452
+Rs4	3	Mid_right	3	0.908	1.418
+Rs4	3	Mid_right	4	0.902	1.426
+Rs4	3	Mid_right	5	0.91	1.453
+Rs4	3	Bottom_left	1	0.89	
+Rs4	3	Bottom_left	2	0.862	
+Rs4	3	Bottom_left	3	0.906	
+Rs4	3	Bottom_left	4	0.904	
+Rs4	3	Bottom_left	5	0.912	
+Rs4	3	Bottom_center	1	0.929	1.588
+Rs4	3	Bottom_center	2	0.879	1.552
+Rs4	3	Bottom_center	3	0.907	1.537
+Rs4	3	Bottom_center	4	0.936	1.551
+Rs4	3	Bottom_center	5	0.902	1.485
+Rs4	3	Bottom_right	1	0.907	1.402
+Rs4	3	Bottom_right	2	0.863	1.435
+Rs4	3	Bottom_right	3	0.891	1.411
+Rs4	3	Bottom_right	4	0.901	1.397
+Rs4	3	Bottom_right	5	0.901	1.404
+Rs4	4	Top_left	1	0.901	1.254
+Rs4	4	Top_left	2	0.868	1.253
+Rs4	4	Top_left	3	0.895	1.202
+Rs4	4	Top_left	4	0.887	1.267
+Rs4	4	Top_left	5	0.904	1.277
+Rs4	4	Top_center	1	0.96	1.477
+Rs4	4	Top_center	2	0.935	1.503
+Rs4	4	Top_center	3	0.944	1.486
+Rs4	4	Top_center	4	0.965	1.502
+Rs4	4	Top_center	5	0.964	1.502
+Rs4	4	Top_right	1	1.001	1.502
+Rs4	4	Top_right	2	0.927	1.527
+Rs4	4	Top_right	3	0.981	1.49
+Rs4	4	Top_right	4	0.977	1.47
+Rs4	4	Top_right	5	1.001	1.504
+Rs4	4	Mid_left	1	0.854	
+Rs4	4	Mid_left	2	0.815	
+Rs4	4	Mid_left	3	0.85	
+Rs4	4	Mid_left	4	0.853	
+Rs4	4	Mid_left	5	0.857	
+Rs4	4	Mid_center	1	0.937	1.502
+Rs4	4	Mid_center	2	0.918	1.502
+Rs4	4	Mid_center	3	0.944	1.511
+Rs4	4	Mid_center	4	0.937	1.545
+Rs4	4	Mid_center	5	0.932	1.502
+Rs4	4	Mid_right	1	0.893	1.302
+Rs4	4	Mid_right	2	0.879	1.377
+Rs4	4	Mid_right	3	0.901	1.335
+Rs4	4	Mid_right	4	0.887	1.377
+Rs4	4	Mid_right	5	0.898	1.355
+Rs4	4	Bottom_left	1	0.872	
+Rs4	4	Bottom_left	2	0.831	
+Rs4	4	Bottom_left	3	0.855	
+Rs4	4	Bottom_left	4	0.859	
+Rs4	4	Bottom_left	5	0.851	
+Rs4	4	Bottom_center	1	0.952	1.677
+Rs4	4	Bottom_center	2	0.888	1.629
+Rs4	4	Bottom_center	3	0.943	1.692
+Rs4	4	Bottom_center	4	0.943	1.673
+Rs4	4	Bottom_center	5	0.94	1.702
+Rs4	4	Bottom_right	1	0.918	1.403
+Rs4	4	Bottom_right	2	0.893	1.477
+Rs4	4	Bottom_right	3	0.913	1.417
+Rs4	4	Bottom_right	4	0.922	1.473
+Rs4	4	Bottom_right	5	0.926	1.453
+Rs4	5	Top_left	1	0.86	1.178
+Rs4	5	Top_left	2	0.86	1.229
+Rs4	5	Top_left	3	0.888	1.232
+Rs4	5	Top_left	4	0.898	1.258
+Rs4	5	Top_left	5	0.868	1.229
+Rs4	5	Top_center	1	0.935	1.427
+Rs4	5	Top_center	2	0.942	1.352
+Rs4	5	Top_center	3	0.931	1.452
+Rs4	5	Top_center	4	0.946	1.438
+Rs4	5	Top_center	5	0.935	1.479
+Rs4	5	Top_right	1	1.001	1.58
+Rs4	5	Top_right	2	0.98	1.577
+Rs4	5	Top_right	3	1.001	1.602
+Rs4	5	Top_right	4	1.011	1.598
+Rs4	5	Top_right	5	1.022	1.507
+Rs4	5	Mid_left	1	0.864	
+Rs4	5	Mid_left	2	0.83	
+Rs4	5	Mid_left	3	0.88	
+Rs4	5	Mid_left	4	0.881	
+Rs4	5	Mid_left	5	0.872	
+Rs4	5	Mid_center	1	0.905	1.477
+Rs4	5	Mid_center	2	0.872	1.552
+Rs4	5	Mid_center	3	0.888	1.404
+Rs4	5	Mid_center	4	0.919	1.507
+Rs4	5	Mid_center	5	0.872	1.427
+Rs4	5	Mid_right	1	0.956	1.41
+Rs4	5	Mid_right	2	0.91	1.427
+Rs4	5	Mid_right	3	0.94	1.444
+Rs4	5	Mid_right	4	0.948	1.452
+Rs4	5	Mid_right	5	0.943	1.453
+Rs4	5	Bottom_left	1	0.889	
+Rs4	5	Bottom_left	2	0.855	
+Rs4	5	Bottom_left	3	0.879	
+Rs4	5	Bottom_left	4	0.891	
+Rs4	5	Bottom_left	5	0.893	
+Rs4	5	Bottom_center	1	0.943	1.529
+Rs4	5	Bottom_center	2	0.905	1.552
+Rs4	5	Bottom_center	3	0.925	1.542
+Rs4	5	Bottom_center	4	0.894	1.552
+Rs4	5	Bottom_center	5	0.926	1.527
+Rs4	5	Bottom_right	1	0.924	1.503
+Rs4	5	Bottom_right	2	0.868	1.552
+Rs4	5	Bottom_right	3	0.903	1.513
+Rs4	5	Bottom_right	4	0.867	1.563
+Rs4	5	Bottom_right	5	0.913	1.532

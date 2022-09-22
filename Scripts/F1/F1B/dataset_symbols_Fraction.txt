@@ -1,0 +1,284 @@
+DATASET_SYMBOL
+#Symbol datasets allow the display of various symbols on the branches of the tree. For each node, one or more symbols can be defined.
+#Each symbol's color, size and position along the branch can be specified.
+
+#lines starting with a hash are comments and ignored during parsing
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file.
+#SEPARATOR TAB
+#SEPARATOR SPACE
+SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,example symbols
+
+#dataset color (can be changed later)
+COLOR,#ffff00
+
+#=================================================================#
+#                    OPTIONAL SETTINGS                            #
+#=================================================================#
+
+
+#=================================================================#
+#     all other optional settings can be set or changed later     #
+#           in the web interface (under 'Datasets' tab)           #
+#=================================================================#
+
+#Each dataset can have a legend, which is defined using LEGEND_XXX fields below
+#For each row in the legend, there should be one shape, color and label.
+#Optionally, you can define an exact legend position using LEGEND_POSITION_X and LEGEND_POSITION_Y. To use automatic legend positioning, do NOT define these values
+#Optionally, shape scaling can be present (LEGEND_SHAPE_SCALES). For each shape, you can define a scaling factor between 0 and 1.
+#Optionally, shapes can be inverted (LEGEND_SHAPE_INVERT). When inverted, shape border will be drawn using the selected color, and the fill color will be white.
+#Shape should be a number between 1 and 6, or any protein domain shape definition.
+#1: square
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+#6: checkmark
+
+#LEGEND_TITLE,Dataset legend
+#LEGEND_POSITION_X,100
+#LEGEND_POSITION_Y,100
+#LEGEND_SHAPES,1,2,3
+#LEGEND_COLORS,#ff0000,#00ff00,#0000ff
+#LEGEND_LABELS,value1,value2,value3
+#LEGEND_SHAPE_SCALES,1,1,0.5
+#LEGEND_SHAPE_INVERT,0,0,0
+
+
+#largest symbol will be displayed with this size, others will be proportionally smaller.
+MAXIMUM_SIZE,13
+
+#symbols can be filled with solid color, or a gradient
+#GRADIENT_FILL,1
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+#the following fields are required for each node:
+#ID,symbol,size,color,fill,position,label
+#symbol should be a number between 1 and 5:
+#1: rectangle
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+#6: checkmark
+
+#size can be any number. Maximum size in the dataset will be displayed using MAXIMUM_SIZE, while others will be proportionally smaller
+#color can be in hexadecimal, RGB or RGBA notation. If RGB or RGBA are used, dataset SEPARATOR cannot be comma.
+#fill can be 1 or 0. If set to 0, only the outline of the symbol will be displayed.
+#position is a number between 0 and 1 and defines the position of the symbol on the branch (for example, position 0 is exactly at the start of node branch, position 0.5 is in the middle, and position 1 is at the end)
+
+DATA
+S522,2,3,#726658,1,1
+S531,2,3,#726658,1,1
+S535,2,3,#726658,1,1
+S538,2,3,#726658,1,1
+S728,2,3,#726658,1,1
+S729,2,3,#726658,1,1
+S736,2,3,#726658,1,1
+S745,2,3,#726658,1,1
+S748,2,3,#726658,1,1
+S750,2,3,#726658,1,1
+S756,2,3,#726658,1,1
+S761,2,3,#726658,1,1
+S762,2,3,#726658,1,1
+S763,2,3,#726658,1,1
+S764,2,3,#726658,1,1
+S766,2,3,#726658,1,1
+S772,2,3,#726658,1,1
+S773,2,3,#726658,1,1
+S774,2,3,#726658,1,1
+S777,2,3,#726658,1,1
+S782,2,3,#726658,1,1
+S787,2,3,#726658,1,1
+S796,2,3,#726658,1,1
+S797,2,3,#726658,1,1
+S803,2,3,#726658,1,1
+S805,2,3,#726658,1,1
+S809,2,3,#726658,1,1
+S810,2,3,#726658,1,1
+S811,2,3,#726658,1,1
+S724D2,2,3,#726658,1,1
+S768D1,2,3,#726658,1,1
+R4,2,3,#c2b59b,1,1
+R9,2,3,#c2b59b,1,1
+R11,2,3,#c2b59b,1,1
+R22,2,3,#c2b59b,1,1
+R29,2,3,#c2b59b,1,1
+R31,2,3,#c2b59b,1,1
+R50,2,3,#c2b59b,1,1
+R53,2,3,#c2b59b,1,1
+R60,2,3,#c2b59b,1,1
+R61,2,3,#c2b59b,1,1
+R63,2,3,#c2b59b,1,1
+R65,2,3,#c2b59b,1,1
+R68,2,3,#c2b59b,1,1
+R70,2,3,#c2b59b,1,1
+R71,2,3,#c2b59b,1,1
+R73,2,3,#c2b59b,1,1
+R74,2,3,#c2b59b,1,1
+R76,2,3,#c2b59b,1,1
+R77,2,3,#c2b59b,1,1
+R79,2,3,#c2b59b,1,1
+R81,2,3,#c2b59b,1,1
+R83,2,3,#c2b59b,1,1
+R85,2,3,#c2b59b,1,1
+R96,2,3,#c2b59b,1,1
+R100,2,3,#c2b59b,1,1
+R101,2,3,#c2b59b,1,1
+R102,2,3,#c2b59b,1,1
+R105,2,3,#c2b59b,1,1
+R107,2,3,#c2b59b,1,1
+R122,2,3,#c2b59b,1,1
+R127,2,3,#c2b59b,1,1
+R131,2,3,#c2b59b,1,1
+R133,2,3,#c2b59b,1,1
+R135,2,3,#c2b59b,1,1
+R136,2,3,#c2b59b,1,1
+R137,2,3,#c2b59b,1,1
+R140,2,3,#c2b59b,1,1
+R142,2,3,#c2b59b,1,1
+R147,2,3,#c2b59b,1,1
+R149,2,3,#c2b59b,1,1
+R151,2,3,#c2b59b,1,1
+R154,2,3,#c2b59b,1,1
+R157,2,3,#c2b59b,1,1
+R166,2,3,#c2b59b,1,1
+R170,2,3,#c2b59b,1,1
+R172,2,3,#c2b59b,1,1
+R179,2,3,#c2b59b,1,1
+R180,2,3,#c2b59b,1,1
+R181,2,3,#c2b59b,1,1
+R186,2,3,#c2b59b,1,1
+R187,2,3,#c2b59b,1,1
+R189,2,3,#c2b59b,1,1
+R190,2,3,#c2b59b,1,1
+R214,2,3,#c2b59b,1,1
+R217,2,3,#c2b59b,1,1
+R219,2,3,#c2b59b,1,1
+R224,2,3,#c2b59b,1,1
+R227,2,3,#c2b59b,1,1
+R231,2,3,#c2b59b,1,1
+R236,2,3,#c2b59b,1,1
+R239,2,3,#c2b59b,1,1
+R240,2,3,#c2b59b,1,1
+R241,2,3,#c2b59b,1,1
+R258,2,3,#c2b59b,1,1
+R264,2,3,#c2b59b,1,1
+R265,2,3,#c2b59b,1,1
+R267,2,3,#c2b59b,1,1
+R268,2,3,#c2b59b,1,1
+R274,2,3,#c2b59b,1,1
+R275,2,3,#c2b59b,1,1
+R278,2,3,#c2b59b,1,1
+R322,2,3,#c2b59b,1,1
+R329,2,3,#c2b59b,1,1
+R332,2,3,#c2b59b,1,1
+R335,2,3,#c2b59b,1,1
+R342,2,3,#c2b59b,1,1
+R343,2,3,#c2b59b,1,1
+R344,2,3,#c2b59b,1,1
+R369,2,3,#c2b59b,1,1
+R381,2,3,#c2b59b,1,1
+R401,2,3,#c2b59b,1,1
+R402,2,3,#c2b59b,1,1
+R404,2,3,#c2b59b,1,1
+R411,2,3,#c2b59b,1,1
+R418,2,3,#c2b59b,1,1
+R420,2,3,#c2b59b,1,1
+R423,2,3,#c2b59b,1,1
+R431,2,3,#c2b59b,1,1
+R434,2,3,#c2b59b,1,1
+R436,2,3,#c2b59b,1,1
+R456,2,3,#c2b59b,1,1
+R473,2,3,#c2b59b,1,1
+R480,2,3,#c2b59b,1,1
+R482,2,3,#c2b59b,1,1
+R485,2,3,#c2b59b,1,1
+R491,2,3,#c2b59b,1,1
+R552,2,3,#c2b59b,1,1
+R553,2,3,#c2b59b,1,1
+R554,2,3,#c2b59b,1,1
+R558,2,3,#c2b59b,1,1
+R559,2,3,#c2b59b,1,1
+R561,2,3,#c2b59b,1,1
+R562,2,3,#c2b59b,1,1
+R563,2,3,#c2b59b,1,1
+R564,2,3,#c2b59b,1,1
+R565,2,3,#c2b59b,1,1
+R568,2,3,#c2b59b,1,1
+R569,2,3,#c2b59b,1,1
+R604,2,3,#c2b59b,1,1
+R614,2,3,#c2b59b,1,1
+R627,2,3,#c2b59b,1,1
+R630,2,3,#c2b59b,1,1
+R635,2,3,#c2b59b,1,1
+R651,2,3,#c2b59b,1,1
+R656,2,3,#c2b59b,1,1
+R667,2,3,#c2b59b,1,1
+R670,2,3,#c2b59b,1,1
+R682,2,3,#c2b59b,1,1
+R685,2,3,#c2b59b,1,1
+R690,2,3,#c2b59b,1,1
+R695,2,3,#c2b59b,1,1
+R700,2,3,#c2b59b,1,1
+R708,2,3,#c2b59b,1,1
+R710,2,3,#c2b59b,1,1
+R720,2,3,#c2b59b,1,1
+R901,2,3,#c2b59b,1,1
+R916,2,3,#c2b59b,1,1
+R918,2,3,#c2b59b,1,1
+R920,2,3,#c2b59b,1,1
+R930,2,3,#c2b59b,1,1
+R935,2,3,#c2b59b,1,1
+R954,2,3,#c2b59b,1,1
+R983,2,3,#c2b59b,1,1
+R1203,2,3,#c2b59b,1,1
+R1212,2,3,#c2b59b,1,1
+R1217,2,3,#c2b59b,1,1
+R1220,2,3,#c2b59b,1,1
+R1221,2,3,#c2b59b,1,1
+R1238,2,3,#c2b59b,1,1
+R1240,2,3,#c2b59b,1,1
+R1252,2,3,#c2b59b,1,1
+R1257,2,3,#c2b59b,1,1
+R1277,2,3,#c2b59b,1,1
+R1280,2,3,#c2b59b,1,1
+R1293,2,3,#c2b59b,1,1
+R1294,2,3,#c2b59b,1,1
+R1295,2,3,#c2b59b,1,1
+R1298,2,3,#c2b59b,1,1
+R1304,2,3,#c2b59b,1,1
+R1310,2,3,#c2b59b,1,1
+R1312,2,3,#c2b59b,1,1
+R1319,2,3,#c2b59b,1,1
+R1334,2,3,#c2b59b,1,1
+R1455,2,3,#c2b59b,1,1
+R112D2,2,3,#c2b59b,1,1
+R123D2,2,3,#c2b59b,1,1
+R16D2,2,3,#c2b59b,1,1
+R198D2,2,3,#c2b59b,1,1
+R280D1,2,3,#c2b59b,1,1
+R318D1,2,3,#c2b59b,1,1
+R336D2,2,3,#c2b59b,1,1
+R413D1,2,3,#c2b59b,1,1
+R444D2,2,3,#c2b59b,1,1
+R472D3,2,3,#c2b59b,1,1
+R483D1,2,3,#c2b59b,1,1
+R483D2,2,3,#c2b59b,1,1
+R487D2Y,2,3,#c2b59b,1,1
+
+#internal node will have a red filled circle in the middle of the branch
+#9606|184922,2,10,#ff0000,1,1.5
+
+#node 100379 will have a blue star outline at the start of the branch, half the size of the circle defined above (size is 5 compared to 10 above)
+#100379,3,5,#0000ff,0,0
+#node 100379 will also have a filled green rectangle in the middle of the branch, same size as the circle defined above (size is 10)
+#100379,1,10,#00ff00,1,1.5

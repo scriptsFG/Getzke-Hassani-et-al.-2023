@@ -1,0 +1,292 @@
+DATASET_SIMPLEBAR
+#In simple bar charts, each ID is associated to a single numeric value which is displayed as a bar outside the tree.
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file.
+SEPARATOR TAB
+#SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL	nAnt
+
+#dataset color (can be changed later)
+COLOR	#000000
+
+#=================================================================#
+#                    OPTIONAL SETTINGS                            #
+#=================================================================#
+
+#=================================================================#
+#     all other optional settings can be set or changed later     #
+#           in the web interface (under 'Datasets' tab)           #
+#=================================================================#
+#dataset scale: you can simply set the values where the scale will be drawn
+#DATASET_SCALE,2000,10000,20000
+
+#or you can specify value, label, color, width, style and label size factor for each scale line (dash separated, format: VALUE-LABEL-COLOR-WIDTH-DASHED-LABEL_SCALE_FACTOR))
+#DATASET_SCALE,2000-2k line-#0000ff-5-1-1,10000-line at 10k-#ff0000-1-0-2,20000-3rd line-#00ff00-5-1-1
+
+#Each dataset can have a legend, which is defined using LEGEND_XXX fields below
+#For each row in the legend, there should be one shape, color and label.
+#Optionally, you can define an exact legend position using LEGEND_POSITION_X and LEGEND_POSITION_Y. To use automatic legend positioning, do NOT define these values
+#Optionally, shape scaling can be present (LEGEND_SHAPE_SCALES). For each shape, you can define a scaling factor between 0 and 1.
+#Shape should be a number between 1 and 6, or any protein domain shape definition.
+#1: square
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+#6: checkmark
+
+#LEGEND_TITLE,Dataset legend
+#LEGEND_POSITION_X,100
+#LEGEND_POSITION_Y,100
+#LEGEND_SHAPES,1,2,3
+#LEGEND_COLORS,#ff0000,#00ff00,#0000ff
+#LEGEND_LABELS,value1,value2,value3
+#LEGEND_SHAPE_SCALES,1,1,0.5
+
+
+#maximum width
+#WIDTH,1000
+
+#left margin, used to increase/decrease the spacing to the next dataset. Can be negative, causing datasets to overlap.
+#MARGIN,0
+
+#always show internal values; if set, values associated to internal nodes will be displayed even if these nodes are not collapsed. It could cause overlapping in the dataset display.
+#SHOW_INTERNAL,0
+
+#show dashed lines between leaf labels and the dataset
+#DASHED_LINES,1
+
+#bar height factor; Default bar height will be slightly less than the available space between leaves, but you can set a multiplication factor here to increase/decrease it (values from 0 to 1 will decrease it, values above 1 will increase it)
+#HEIGHT_FACTOR,1
+
+#Display individual values above the bars
+#SHOW_VALUE,0
+
+#Bars are aligned to the node lines by default. Using BAR_SHIFT, you can move them all up/down by a fixed amount
+#BAR_SHIFT,0
+
+#BAR_ZERO specifies which dataset value will be used as a starting point for drawing the bars. Dataset values smaller than BAR_ZERO will be displayed to the left (possibly overlapping the tree, unless MARGIN is increased)
+#BAR_ZERO,0
+
+#border width; if set above 0, a border of specified width (in pixels) will be drawn around the bars
+#BORDER_WIDTH,0
+
+#border color; used when BORDER_WIDTH is above 0
+#BORDER_COLOR,#0000ff
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+S522	0
+S531	30
+S535	0
+S538	4
+S728	4
+S729	1
+S736	1
+S745	10
+S748	2
+S750	1
+S756	0
+S761	0
+S762	2
+S763	0
+S764	0
+S766	0
+S772	0
+S773	3
+S774	0
+S777	0
+S782	0
+S787	0
+S796	0
+S797	7
+S803	0
+S805	0
+S809	0
+S810	4
+S811	7
+S724D2	3
+S768D1	0
+R4	4
+R9	7
+R11	15
+R22	0
+R29	19
+R31	0
+R50	14
+R53	2
+R60	0
+R61	3
+R63	46
+R65	16
+R68	22
+R70	0
+R71	20
+R73	2
+R74	8
+R76	0
+R77	7
+R79	1
+R81	11
+R83	4
+R85	0
+R96	1
+R100	2
+R101	0
+R102	1
+R105	11
+R107	1
+R122	10
+R127	14
+R131	0
+R133	3
+R135	1
+R136	2
+R137	7
+R140	1
+R142	0
+R147	7
+R149	0
+R151	2
+R154	36
+R157	13
+R166	0
+R170	17
+R172	2
+R179	8
+R180	0
+R181	17
+R186	4
+R187	3
+R189	7
+R190	2
+R214	0
+R217	2
+R219	0
+R224	0
+R227	3
+R231	0
+R236	0
+R239	6
+R240	3
+R241	3
+R258	10
+R264	0
+R265	0
+R267	2
+R268	0
+R274	0
+R275	3
+R278	1
+R322	8
+R329	14
+R332	2
+R335	8
+R342	0
+R343	2
+R344	3
+R369	12
+R381	2
+R401	50
+R402	2
+R404	1
+R411	2
+R418	0
+R420	5
+R423	4
+R431	0
+R434	2
+R436	4
+R456	0
+R473	3
+R480	2
+R482	0
+R485	2
+R491	3
+R552	0
+R553	10
+R554	0
+R558	0
+R559	4
+R561	0
+R562	18
+R563	0
+R564	6
+R565	19
+R568	0
+R569	26
+R604	5
+R614	1
+R627	5
+R630	0
+R635	11
+R651	4
+R656	0
+R667	1
+R670	2
+R682	34
+R685	5
+R690	34
+R695	0
+R700	1
+R708	0
+R710	2
+R720	0
+R901	8
+R916	5
+R918	4
+R920	16
+R930	17
+R935	3
+R954	0
+R983	1
+R1203	0
+R1212	0
+R1217	0
+R1220	0
+R1221	0
+R1238	4
+R1240	5
+R1252	0
+R1257	0
+R1277	0
+R1280	3
+R1293	0
+R1294	13
+R1295	5
+R1298	1
+R1304	3
+R1310	4
+R1312	2
+R1319	14
+R1334	10
+R1455	2
+R112D2	11
+R123D2	10
+R16D2	1
+R198D2	1
+R280D1	0
+R318D1	0
+R336D2	6
+R413D1	21
+R444D2	0
+R472D3	11
+R483D1	11
+R483D2	6
+R487D2Y	9
+
+
+#ID1,value1
+#ID2,value2
+#9606,10000
+#LEAF1|LEAF2,11000
